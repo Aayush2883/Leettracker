@@ -114,7 +114,7 @@ const path = require('path');
 app.use(express.static(path.join(__dirname, 'dist')));
 
 // Wildcard route to direct all other routes to index.html (for client-side routing)
-app.get('*', (req, res) => {
+app.get('*all', (req, res) => {
   res.sendFile(path.join(__dirname, 'dist', 'index.html'));
 });
 
