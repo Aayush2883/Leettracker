@@ -1,0 +1,105 @@
+{
+  "id": "otter-ai",
+  "name": "Otter.ai",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Trapping Rain Water II",
+      "frequency": 100,
+      "acceptance": 64.1,
+      "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Heap (Priority Queue)",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Word Break",
+      "frequency": 87.8,
+      "acceptance": 49.6,
+      "link": "https://leetcode.com/problems/word-break",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Trie",
+        "Memoization"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Flatten Deeply Nested Array",
+      "frequency": 78.2,
+      "acceptance": 66,
+      "link": "https://leetcode.com/problems/flatten-deeply-nested-array",
+      "topics": []
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Frog Jump",
+      "frequency": 78.2,
+      "acceptance": 47.4,
+      "link": "https://leetcode.com/problems/frog-jump",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Trapping Rain Water II",
+      "frequency": 100,
+      "acceptance": 64.1,
+      "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Heap (Priority Queue)",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Word Break",
+      "frequency": 87.8,
+      "acceptance": 49.6,
+      "link": "https://leetcode.com/problems/word-break",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Trie",
+        "Memoization"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Frog Jump",
+      "frequency": 78.1,
+      "acceptance": 47.4,
+      "link": "https://leetcode.com/problems/frog-jump",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Flatten Deeply Nested Array",
+      "frequency": 78.1,
+      "acceptance": 66,
+      "link": "https://leetcode.com/problems/flatten-deeply-nested-array",
+      "topics": []
+    }
+  ]
+}

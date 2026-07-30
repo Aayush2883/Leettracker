@@ -1,0 +1,70 @@
+{
+  "id": "navan",
+  "name": "Navan",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Paint House",
+      "frequency": 100,
+      "acceptance": 64.5,
+      "link": "https://leetcode.com/problems/paint-house",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Word Ladder",
+      "frequency": 90.1,
+      "acceptance": 45.8,
+      "link": "https://leetcode.com/problems/word-ladder",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Breadth-First Search"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Word Ladder",
+      "frequency": 100,
+      "acceptance": 45.8,
+      "link": "https://leetcode.com/problems/word-ladder",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Breadth-First Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Paint House",
+      "frequency": 100,
+      "acceptance": 64.5,
+      "link": "https://leetcode.com/problems/paint-house",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "LRU Cache",
+      "frequency": 89.6,
+      "acceptance": 47.5,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    }
+  ]
+}

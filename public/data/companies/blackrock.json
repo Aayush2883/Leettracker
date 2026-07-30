@@ -1,0 +1,349 @@
+{
+  "id": "blackrock",
+  "name": "BlackRock",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Happy Number",
+      "frequency": 100,
+      "acceptance": 59.8,
+      "link": "https://leetcode.com/problems/happy-number",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "Two Pointers"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Happy Number",
+      "frequency": 100,
+      "acceptance": 59.8,
+      "link": "https://leetcode.com/problems/happy-number",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "Two Pointers"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Find the Maximum Sum of Node Values",
+      "frequency": 72,
+      "acceptance": 69.4,
+      "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Bit Manipulation",
+        "Tree",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Subtree of the Same Color",
+      "frequency": 70.3,
+      "acceptance": 58.7,
+      "link": "https://leetcode.com/problems/maximum-subtree-of-the-same-color",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Group Anagrams",
+      "frequency": 61.4,
+      "acceptance": 72.8,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Best Time to Buy and Sell Stock",
+      "frequency": 58.3,
+      "acceptance": 57,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Parentheses",
+      "frequency": 54.4,
+      "acceptance": 44.4,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Profit From Trading Stocks",
+      "frequency": 49.4,
+      "acceptance": 48.2,
+      "link": "https://leetcode.com/problems/maximum-profit-from-trading-stocks",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Palindromic Substring",
+      "frequency": 42.4,
+      "acceptance": 38,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Islands",
+      "frequency": 42.4,
+      "acceptance": 64.6,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 42.4,
+      "acceptance": 57.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Missing Number",
+      "frequency": 42.4,
+      "acceptance": 72.2,
+      "link": "https://leetcode.com/problems/missing-number",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Climbing Stairs",
+      "frequency": 42.4,
+      "acceptance": 54.2,
+      "link": "https://leetcode.com/problems/climbing-stairs",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Memoization"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Happy Number",
+      "frequency": 100,
+      "acceptance": 59.8,
+      "link": "https://leetcode.com/problems/happy-number",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "Two Pointers"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Find the Maximum Sum of Node Values",
+      "frequency": 71.3,
+      "acceptance": 69.4,
+      "link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Bit Manipulation",
+        "Tree",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Subtree of the Same Color",
+      "frequency": 69.7,
+      "acceptance": 58.7,
+      "link": "https://leetcode.com/problems/maximum-subtree-of-the-same-color",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Group Anagrams",
+      "frequency": 60.8,
+      "acceptance": 72.8,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Best Time to Buy and Sell Stock",
+      "frequency": 57.6,
+      "acceptance": 57,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Parentheses",
+      "frequency": 53.7,
+      "acceptance": 44.4,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Profit From Trading Stocks",
+      "frequency": 48.7,
+      "acceptance": 48.2,
+      "link": "https://leetcode.com/problems/maximum-profit-from-trading-stocks",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Islands",
+      "frequency": 41.7,
+      "acceptance": 64.6,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Palindromic Substring",
+      "frequency": 41.7,
+      "acceptance": 38,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 41.7,
+      "acceptance": 57.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Missing Number",
+      "frequency": 41.7,
+      "acceptance": 72.2,
+      "link": "https://leetcode.com/problems/missing-number",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Climbing Stairs",
+      "frequency": 41.7,
+      "acceptance": 54.2,
+      "link": "https://leetcode.com/problems/climbing-stairs",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Memoization"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Integer to Roman",
+      "frequency": 41.7,
+      "acceptance": 71.2,
+      "link": "https://leetcode.com/problems/integer-to-roman",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find the Duplicate Number",
+      "frequency": 41.7,
+      "acceptance": 64.5,
+      "link": "https://leetcode.com/problems/find-the-duplicate-number",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Bit Manipulation"
+      ]
+    }
+  ]
+}

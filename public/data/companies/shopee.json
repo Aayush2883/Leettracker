@@ -1,0 +1,193 @@
+{
+  "id": "shopee",
+  "name": "Shopee",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "LRU Cache",
+      "frequency": 100,
+      "acceptance": 47.5,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Jump Game",
+      "frequency": 100,
+      "acceptance": 41.1,
+      "link": "https://leetcode.com/problems/jump-game",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count Pairs in Two Arrays",
+      "frequency": 88.3,
+      "acceptance": 60.3,
+      "link": "https://leetcode.com/problems/count-pairs-in-two-arrays",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Random Pick with Weight",
+      "frequency": 88.3,
+      "acceptance": 49.1,
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Palindrome",
+      "frequency": 88.3,
+      "acceptance": 53.6,
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Serialize and Deserialize BST",
+      "frequency": 88.3,
+      "acceptance": 59.7,
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-bst",
+      "topics": [
+        "String",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Design",
+        "Binary Search Tree",
+        "Binary Tree"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count Pairs in Two Arrays",
+      "frequency": 100,
+      "acceptance": 60.3,
+      "link": "https://leetcode.com/problems/count-pairs-in-two-arrays",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Jump Game",
+      "frequency": 73.3,
+      "acceptance": 41.1,
+      "link": "https://leetcode.com/problems/jump-game",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "LRU Cache",
+      "frequency": 73.3,
+      "acceptance": 47.5,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Random Pick with Weight",
+      "frequency": 64.4,
+      "acceptance": 49.1,
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Palindrome",
+      "frequency": 64.4,
+      "acceptance": 53.6,
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Serialize and Deserialize BST",
+      "frequency": 64.4,
+      "acceptance": 59.7,
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-bst",
+      "topics": [
+        "String",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Design",
+        "Binary Search Tree",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Palindromic Substring",
+      "frequency": 64.4,
+      "acceptance": 38,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Bus Routes",
+      "frequency": 64.4,
+      "acceptance": 47.4,
+      "link": "https://leetcode.com/problems/bus-routes",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Breadth-First Search"
+      ]
+    }
+  ]
+}

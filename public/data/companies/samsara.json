@@ -1,0 +1,133 @@
+{
+  "id": "samsara",
+  "name": "Samsara",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Valid Sudoku",
+      "frequency": 100,
+      "acceptance": 64.7,
+      "link": "https://leetcode.com/problems/valid-sudoku",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find Beautiful Indices in the Given Array I",
+      "frequency": 87.8,
+      "acceptance": 41,
+      "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Binary Search",
+        "Rolling Hash",
+        "String Matching",
+        "Hash Function"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Alternating Groups II",
+      "frequency": 68.7,
+      "acceptance": 60,
+      "link": "https://leetcode.com/problems/alternating-groups-ii",
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Alternating Groups I",
+      "frequency": 68.7,
+      "acceptance": 69.2,
+      "link": "https://leetcode.com/problems/alternating-groups-i",
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Text Justification",
+      "frequency": 68.7,
+      "acceptance": 51.4,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Alternating Groups I",
+      "frequency": 100,
+      "acceptance": 69.2,
+      "link": "https://leetcode.com/problems/alternating-groups-i",
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Alternating Groups II",
+      "frequency": 100,
+      "acceptance": 60,
+      "link": "https://leetcode.com/problems/alternating-groups-ii",
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Valid Sudoku",
+      "frequency": 97.7,
+      "acceptance": 64.7,
+      "link": "https://leetcode.com/problems/valid-sudoku",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find Beautiful Indices in the Given Array I",
+      "frequency": 85.2,
+      "acceptance": 41,
+      "link": "https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Binary Search",
+        "Rolling Hash",
+        "String Matching",
+        "Hash Function"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Text Justification",
+      "frequency": 65.6,
+      "acceptance": 51.4,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ]
+    }
+  ]
+}

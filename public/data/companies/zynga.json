@@ -1,0 +1,67 @@
+{
+  "id": "zynga",
+  "name": "Zynga",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Reverse Linked List",
+      "frequency": 100,
+      "acceptance": 80.7,
+      "link": "https://leetcode.com/problems/reverse-linked-list",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Top K Frequent Words",
+      "frequency": 100,
+      "acceptance": 60.3,
+      "link": "https://leetcode.com/problems/top-k-frequent-words",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Reverse Linked List",
+      "frequency": 100,
+      "acceptance": 80.7,
+      "link": "https://leetcode.com/problems/reverse-linked-list",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Top K Frequent Words",
+      "frequency": 100,
+      "acceptance": 60.3,
+      "link": "https://leetcode.com/problems/top-k-frequent-words",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting"
+      ]
+    }
+  ]
+}

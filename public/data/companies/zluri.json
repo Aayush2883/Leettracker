@@ -1,0 +1,65 @@
+{
+  "id": "zluri",
+  "name": "Zluri",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Array Hopping Score I",
+      "frequency": 100,
+      "acceptance": 77.1,
+      "link": "https://leetcode.com/problems/maximum-array-hopping-score-i",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Array Hopping Score II",
+      "frequency": 100,
+      "acceptance": 59.8,
+      "link": "https://leetcode.com/problems/maximum-array-hopping-score-ii",
+      "topics": [
+        "Array",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Array Hopping Score I",
+      "frequency": 100,
+      "acceptance": 77.1,
+      "link": "https://leetcode.com/problems/maximum-array-hopping-score-i",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Array Hopping Score II",
+      "frequency": 100,
+      "acceptance": 59.8,
+      "link": "https://leetcode.com/problems/maximum-array-hopping-score-ii",
+      "topics": [
+        "Array",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "nielsen",
+  "name": "Nielsen",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Palindromic Substring",
+      "frequency": 100,
+      "acceptance": 38,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Multiply Strings",
+      "frequency": 92.5,
+      "acceptance": 44.3,
+      "link": "https://leetcode.com/problems/multiply-strings",
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Group Anagrams",
+      "frequency": 81.9,
+      "acceptance": 72.8,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Best Time to Buy and Sell Stock IV",
+      "frequency": 81.9,
+      "acceptance": 50.5,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 81.9,
+      "acceptance": 57.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Palindromic Substring",
+      "frequency": 100,
+      "acceptance": 38,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Multiply Strings",
+      "frequency": 92.3,
+      "acceptance": 44.3,
+      "link": "https://leetcode.com/problems/multiply-strings",
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Group Anagrams",
+      "frequency": 81.6,
+      "acceptance": 72.8,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Best Time to Buy and Sell Stock IV",
+      "frequency": 81.6,
+      "acceptance": 50.5,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 81.6,
+      "acceptance": 57.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Jump Game",
+      "frequency": 81.6,
+      "acceptance": 41.1,
+      "link": "https://leetcode.com/problems/jump-game",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    }
+  ]
+}

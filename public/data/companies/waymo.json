@@ -1,0 +1,638 @@
+{
+  "id": "waymo",
+  "name": "Waymo",
+  "thirtyDays": [],
+  "threeMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Islands",
+      "frequency": 100,
+      "acceptance": 64.6,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Random Pick with Weight",
+      "frequency": 89.2,
+      "acceptance": 49.1,
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Logger Rate Limiter",
+      "frequency": 89.2,
+      "acceptance": 76.9,
+      "link": "https://leetcode.com/problems/logger-rate-limiter",
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Data Stream"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Gap",
+      "frequency": 89.2,
+      "acceptance": 52.3,
+      "link": "https://leetcode.com/problems/maximum-gap",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Bucket Sort",
+        "Radix Sort"
+      ]
+    }
+  ],
+  "sixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Number of Visible People in a Queue",
+      "frequency": 100,
+      "acceptance": 73.3,
+      "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Random Pick with Weight",
+      "frequency": 100,
+      "acceptance": 49.1,
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Islands",
+      "frequency": 100,
+      "acceptance": 64.6,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Number of Refueling Stops",
+      "frequency": 92.2,
+      "acceptance": 41.6,
+      "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Logger Rate Limiter",
+      "frequency": 92.2,
+      "acceptance": 76.9,
+      "link": "https://leetcode.com/problems/logger-rate-limiter",
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Data Stream"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Gap",
+      "frequency": 81.2,
+      "acceptance": 52.3,
+      "link": "https://leetcode.com/problems/maximum-gap",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Bucket Sort",
+        "Radix Sort"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Max Points on a Line",
+      "frequency": 100,
+      "acceptance": 30.9,
+      "link": "https://leetcode.com/problems/max-points-on-a-line",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Meeting Rooms II",
+      "frequency": 77,
+      "acceptance": 52.7,
+      "link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Islands",
+      "frequency": 70.5,
+      "acceptance": 64.6,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Knight Moves",
+      "frequency": 70.5,
+      "acceptance": 42,
+      "link": "https://leetcode.com/problems/minimum-knight-moves",
+      "topics": [
+        "Breadth-First Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Area Rectangle",
+      "frequency": 70.5,
+      "acceptance": 55.4,
+      "link": "https://leetcode.com/problems/minimum-area-rectangle",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Geometry",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Design Excel Sum Formula",
+      "frequency": 70.5,
+      "acceptance": 39.6,
+      "link": "https://leetcode.com/problems/design-excel-sum-formula",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Graph Theory",
+        "Design",
+        "Topological Sort",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design Tic-Tac-Toe",
+      "frequency": 61.3,
+      "acceptance": 58.7,
+      "link": "https://leetcode.com/problems/design-tic-tac-toe",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Matrix",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Divide Array in Sets of K Consecutive Numbers",
+      "frequency": 61.3,
+      "acceptance": 59.4,
+      "link": "https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Shortest Distance from All Buildings",
+      "frequency": 61.3,
+      "acceptance": 45,
+      "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find Peak Element",
+      "frequency": 61.3,
+      "acceptance": 47,
+      "link": "https://leetcode.com/problems/find-peak-element",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Text Justification",
+      "frequency": 61.3,
+      "acceptance": 51.4,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Largest Rectangle in Histogram",
+      "frequency": 61.3,
+      "acceptance": 50.2,
+      "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Logger Rate Limiter",
+      "frequency": 61.3,
+      "acceptance": 76.9,
+      "link": "https://leetcode.com/problems/logger-rate-limiter",
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Data Stream"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Max Points on a Line",
+      "frequency": 100,
+      "acceptance": 30.9,
+      "link": "https://leetcode.com/problems/max-points-on-a-line",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Geometry"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Islands",
+      "frequency": 87.4,
+      "acceptance": 64.6,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Logger Rate Limiter",
+      "frequency": 79.5,
+      "acceptance": 76.9,
+      "link": "https://leetcode.com/problems/logger-rate-limiter",
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Data Stream"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Random Pick with Weight",
+      "frequency": 79.5,
+      "acceptance": 49.1,
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Meeting Rooms II",
+      "frequency": 74.2,
+      "acceptance": 52.7,
+      "link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Number of Visible People in a Queue",
+      "frequency": 74.2,
+      "acceptance": 73.3,
+      "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design Tic-Tac-Toe",
+      "frequency": 67.5,
+      "acceptance": 58.7,
+      "link": "https://leetcode.com/problems/design-tic-tac-toe",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Matrix",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Shortest Distance from All Buildings",
+      "frequency": 67.5,
+      "acceptance": 45,
+      "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Knight Moves",
+      "frequency": 67.5,
+      "acceptance": 42,
+      "link": "https://leetcode.com/problems/minimum-knight-moves",
+      "topics": [
+        "Breadth-First Search"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Design Excel Sum Formula",
+      "frequency": 67.5,
+      "acceptance": 39.6,
+      "link": "https://leetcode.com/problems/design-excel-sum-formula",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Graph Theory",
+        "Design",
+        "Topological Sort",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Area Rectangle",
+      "frequency": 67.5,
+      "acceptance": 55.4,
+      "link": "https://leetcode.com/problems/minimum-area-rectangle",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Geometry",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Number of Refueling Stops",
+      "frequency": 67.5,
+      "acceptance": 41.6,
+      "link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Divide Array in Sets of K Consecutive Numbers",
+      "frequency": 58,
+      "acceptance": 59.4,
+      "link": "https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find Peak Element",
+      "frequency": 58,
+      "acceptance": 47,
+      "link": "https://leetcode.com/problems/find-peak-element",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Text Justification",
+      "frequency": 58,
+      "acceptance": 51.4,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Largest Rectangle in Histogram",
+      "frequency": 58,
+      "acceptance": 50.2,
+      "link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Path With Minimum Effort",
+      "frequency": 58,
+      "acceptance": 63.5,
+      "link": "https://leetcode.com/problems/path-with-minimum-effort",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Heap (Priority Queue)",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Regular Expression Matching",
+      "frequency": 58,
+      "acceptance": 31.1,
+      "link": "https://leetcode.com/problems/regular-expression-matching",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Alien Dictionary",
+      "frequency": 58,
+      "acceptance": 37.2,
+      "link": "https://leetcode.com/problems/alien-dictionary",
+      "topics": [
+        "Array",
+        "String",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Earnings From Taxi",
+      "frequency": 58,
+      "acceptance": 46.6,
+      "link": "https://leetcode.com/problems/maximum-earnings-from-taxi",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Dynamic Programming",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Range Sum Query 2D - Immutable",
+      "frequency": 58,
+      "acceptance": 58.5,
+      "link": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+      "topics": [
+        "Array",
+        "Design",
+        "Matrix",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Robot Room Cleaner",
+      "frequency": 58,
+      "acceptance": 78,
+      "link": "https://leetcode.com/problems/robot-room-cleaner",
+      "topics": [
+        "Backtracking",
+        "Interactive"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Number of Islands II",
+      "frequency": 58,
+      "acceptance": 40.7,
+      "link": "https://leetcode.com/problems/number-of-islands-ii",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Union-Find"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Car Fleet",
+      "frequency": 58,
+      "acceptance": 55.3,
+      "link": "https://leetcode.com/problems/car-fleet",
+      "topics": [
+        "Array",
+        "Stack",
+        "Sorting",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Gap",
+      "frequency": 58,
+      "acceptance": 52.3,
+      "link": "https://leetcode.com/problems/maximum-gap",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Bucket Sort",
+        "Radix Sort"
+      ]
+    }
+  ]
+}

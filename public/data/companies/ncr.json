@@ -1,0 +1,91 @@
+{
+  "id": "ncr",
+  "name": "NCR",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of People Aware of a Secret",
+      "frequency": 100,
+      "acceptance": 60.7,
+      "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+      "topics": [
+        "Dynamic Programming",
+        "Queue",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimize Malware Spread",
+      "frequency": 89.9,
+      "acceptance": 43.3,
+      "link": "https://leetcode.com/problems/minimize-malware-spread",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design Authentication Manager",
+      "frequency": 89.9,
+      "acceptance": 58.7,
+      "link": "https://leetcode.com/problems/design-authentication-manager",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of People Aware of a Secret",
+      "frequency": 100,
+      "acceptance": 60.7,
+      "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+      "topics": [
+        "Dynamic Programming",
+        "Queue",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimize Malware Spread",
+      "frequency": 89.8,
+      "acceptance": 43.3,
+      "link": "https://leetcode.com/problems/minimize-malware-spread",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design Authentication Manager",
+      "frequency": 89.8,
+      "acceptance": 58.7,
+      "link": "https://leetcode.com/problems/design-authentication-manager",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    }
+  ]
+}

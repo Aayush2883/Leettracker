@@ -1,0 +1,140 @@
+{
+  "id": "earnin",
+  "name": "EarnIn",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Add Two Numbers",
+      "frequency": 100,
+      "acceptance": 48.7,
+      "link": "https://leetcode.com/problems/add-two-numbers",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Add Two Numbers",
+      "frequency": 100,
+      "acceptance": 48.7,
+      "link": "https://leetcode.com/problems/add-two-numbers",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 100,
+      "acceptance": 57.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Valid Sudoku",
+      "frequency": 100,
+      "acceptance": 64.7,
+      "link": "https://leetcode.com/problems/valid-sudoku",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Palindromic Substring",
+      "frequency": 100,
+      "acceptance": 38,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Merge Intervals",
+      "frequency": 100,
+      "acceptance": 52.1,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Add Two Numbers",
+      "frequency": 100,
+      "acceptance": 48.7,
+      "link": "https://leetcode.com/problems/add-two-numbers",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Palindromic Substring",
+      "frequency": 83.6,
+      "acceptance": 38,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 83.6,
+      "acceptance": 57.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Valid Sudoku",
+      "frequency": 83.6,
+      "acceptance": 64.7,
+      "link": "https://leetcode.com/problems/valid-sudoku",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Merge Intervals",
+      "frequency": 83.6,
+      "acceptance": 52.1,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    }
+  ]
+}

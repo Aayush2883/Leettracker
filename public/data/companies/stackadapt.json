@@ -1,0 +1,105 @@
+{
+  "id": "stackadapt",
+  "name": "StackAdapt",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "LRU Cache",
+      "frequency": 100,
+      "acceptance": 47.5,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Snapshot Array",
+      "frequency": 100,
+      "acceptance": 36.8,
+      "link": "https://leetcode.com/problems/snapshot-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Design"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Find Median from Data Stream",
+      "frequency": 100,
+      "acceptance": 54.6,
+      "link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "topics": [
+        "Two Pointers",
+        "Design",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Data Stream"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "LRU Cache",
+      "frequency": 89.6,
+      "acceptance": 47.5,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "LRU Cache",
+      "frequency": 100,
+      "acceptance": 47.5,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Find Median from Data Stream",
+      "frequency": 92.9,
+      "acceptance": 54.6,
+      "link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "topics": [
+        "Two Pointers",
+        "Design",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Data Stream"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Snapshot Array",
+      "frequency": 92.9,
+      "acceptance": 36.8,
+      "link": "https://leetcode.com/problems/snapshot-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Design"
+      ]
+    }
+  ]
+}

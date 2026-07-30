@@ -1,0 +1,68 @@
+{
+  "id": "luxoft",
+  "name": "Luxoft",
+  "thirtyDays": [],
+  "threeMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Reverse Linked List",
+      "frequency": 100,
+      "acceptance": 7920.7,
+      "link": "https://leetcode.com/problems/reverse-linked-list",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
+    }
+  ],
+  "sixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Reverse Linked List",
+      "frequency": 100,
+      "acceptance": 7920.7,
+      "link": "https://leetcode.com/problems/reverse-linked-list",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 100,
+      "acceptance": 5577.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 100,
+      "acceptance": 5577.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Reverse Linked List",
+      "frequency": 89.2,
+      "acceptance": 7920.7,
+      "link": "https://leetcode.com/problems/reverse-linked-list",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
+    }
+  ]
+}

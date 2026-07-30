@@ -1,0 +1,184 @@
+{
+  "id": "mastercard",
+  "name": "Mastercard",
+  "thirtyDays": [],
+  "threeMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 100,
+      "acceptance": 5577.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    }
+  ],
+  "sixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 100,
+      "acceptance": 5577.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Best Time to Buy and Sell Stock",
+      "frequency": 89.6,
+      "acceptance": 5526,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 100,
+      "acceptance": 5577.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Parentheses",
+      "frequency": 94.1,
+      "acceptance": 4232.3,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Anagram",
+      "frequency": 86.5,
+      "acceptance": 6666.1,
+      "link": "https://leetcode.com/problems/valid-anagram",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Best Time to Buy and Sell Stock",
+      "frequency": 86.5,
+      "acceptance": 5526,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Subsets",
+      "frequency": 75.8,
+      "acceptance": 8087.9,
+      "link": "https://leetcode.com/problems/subsets",
+      "topics": [
+        "Array",
+        "Backtracking",
+        "Bit Manipulation"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Fizz Buzz",
+      "frequency": 75.8,
+      "acceptance": 7437.1,
+      "link": "https://leetcode.com/problems/fizz-buzz",
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Container With Most Water",
+      "frequency": 75.8,
+      "acceptance": 5778.3,
+      "link": "https://leetcode.com/problems/container-with-most-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Rotate Image",
+      "frequency": 75.8,
+      "acceptance": 7790.2,
+      "link": "https://leetcode.com/problems/rotate-image",
+      "topics": [
+        "Array",
+        "Math",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Palindromic Substring",
+      "frequency": 75.8,
+      "acceptance": 3584.6,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Candy",
+      "frequency": 75.8,
+      "acceptance": 4670,
+      "link": "https://leetcode.com/problems/candy",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Gas Station",
+      "frequency": 75.8,
+      "acceptance": 4638.4,
+      "link": "https://leetcode.com/problems/gas-station",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Coin Change",
+      "frequency": 75.8,
+      "acceptance": 4649.6,
+      "link": "https://leetcode.com/problems/coin-change",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ]
+    }
+  ]
+}

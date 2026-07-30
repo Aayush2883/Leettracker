@@ -1,0 +1,85 @@
+{
+  "id": "fourkites",
+  "name": "fourkites",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Subarray With Maximum Bitwise AND",
+      "frequency": 100,
+      "acceptance": 65.4,
+      "link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Brainteaser"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Unequal Adjacent Groups Subsequence II",
+      "frequency": 100,
+      "acceptance": 51.4,
+      "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii",
+      "topics": [
+        "Array",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Longest Unequal Adjacent Groups Subsequence I",
+      "frequency": 100,
+      "acceptance": 66.9,
+      "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i",
+      "topics": [
+        "Array",
+        "String",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Unequal Adjacent Groups Subsequence II",
+      "frequency": 100,
+      "acceptance": 51.4,
+      "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii",
+      "topics": [
+        "Array",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Subarray With Maximum Bitwise AND",
+      "frequency": 100,
+      "acceptance": 65.4,
+      "link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Brainteaser"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Longest Unequal Adjacent Groups Subsequence I",
+      "frequency": 100,
+      "acceptance": 66.9,
+      "link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i",
+      "topics": [
+        "Array",
+        "String",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    }
+  ]
+}

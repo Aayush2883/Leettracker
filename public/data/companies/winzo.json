@@ -1,0 +1,41 @@
+{
+  "id": "winzo",
+  "name": "WinZO",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Smallest Range Covering Elements from K Lists",
+      "frequency": 100,
+      "acceptance": 70.2,
+      "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Sliding Window",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Smallest Range Covering Elements from K Lists",
+      "frequency": 100,
+      "acceptance": 70.2,
+      "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Sliding Window",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "airwallex",
+  "name": "Airwallex",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Daily Temperatures",
+      "frequency": 100,
+      "acceptance": 68.8,
+      "link": "https://leetcode.com/problems/daily-temperatures",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Daily Temperatures",
+      "frequency": 100,
+      "acceptance": 68.8,
+      "link": "https://leetcode.com/problems/daily-temperatures",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    }
+  ]
+}

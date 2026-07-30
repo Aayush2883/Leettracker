@@ -1,0 +1,453 @@
+{
+  "id": "instacart",
+  "name": "Instacart",
+  "thirtyDays": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Average Waiting Time",
+      "frequency": 100,
+      "acceptance": 7305.2,
+      "link": "https://leetcode.com/problems/average-waiting-time",
+      "topics": [
+        "Array",
+        "Simulation"
+      ]
+    }
+  ],
+  "threeMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "frequency": 100,
+      "acceptance": 4682.9,
+      "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Squares of a Sorted Array",
+      "frequency": 100,
+      "acceptance": 7321.9,
+      "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Average Waiting Time",
+      "frequency": 100,
+      "acceptance": 7305.2,
+      "link": "https://leetcode.com/problems/average-waiting-time",
+      "topics": [
+        "Array",
+        "Simulation"
+      ]
+    }
+  ],
+  "sixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Time Based Key-Value Store",
+      "frequency": 100,
+      "acceptance": 4936.6,
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "frequency": 100,
+      "acceptance": 4682.9,
+      "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Squares of a Sorted Array",
+      "frequency": 90.1,
+      "acceptance": 7321.9,
+      "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Average Waiting Time",
+      "frequency": 90.1,
+      "acceptance": 7305.2,
+      "link": "https://leetcode.com/problems/average-waiting-time",
+      "topics": [
+        "Array",
+        "Simulation"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Time Based Key-Value Store",
+      "frequency": 100,
+      "acceptance": 4936.6,
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Check if Every Row and Column Contains All Numbers",
+      "frequency": 72.3,
+      "acceptance": 5284.1,
+      "link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Wildcard Matching",
+      "frequency": 72.3,
+      "acceptance": 2989.8,
+      "link": "https://leetcode.com/problems/wildcard-matching",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Greedy",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Valid Number",
+      "frequency": 63.6,
+      "acceptance": 2156.4,
+      "link": "https://leetcode.com/problems/valid-number",
+      "topics": [
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "frequency": 63.6,
+      "acceptance": 6039.2,
+      "link": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Number of Events That Can Be Attended",
+      "frequency": 63.6,
+      "acceptance": 3292.2,
+      "link": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Search Insert Position",
+      "frequency": 63.6,
+      "acceptance": 4901.2,
+      "link": "https://leetcode.com/problems/search-insert-position",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Valid Sudoku",
+      "frequency": 63.6,
+      "acceptance": 6227.7,
+      "link": "https://leetcode.com/problems/valid-sudoku",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Non-overlapping Intervals",
+      "frequency": 63.6,
+      "acceptance": 5550.3,
+      "link": "https://leetcode.com/problems/non-overlapping-intervals",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Merge Intervals",
+      "frequency": 63.6,
+      "acceptance": 4939.5,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Best Time to Buy and Sell Stock",
+      "frequency": 63.6,
+      "acceptance": 5526,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Word Search II",
+      "frequency": 63.6,
+      "acceptance": 3732.6,
+      "link": "https://leetcode.com/problems/word-search-ii",
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Trie",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Squares of a Sorted Array",
+      "frequency": 63.6,
+      "acceptance": 7321.9,
+      "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "frequency": 63.6,
+      "acceptance": 4682.9,
+      "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Time Based Key-Value Store",
+      "frequency": 100,
+      "acceptance": 4936.6,
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Check if Every Row and Column Contains All Numbers",
+      "frequency": 96.4,
+      "acceptance": 5284.1,
+      "link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "frequency": 79.6,
+      "acceptance": 4682.9,
+      "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Squares of a Sorted Array",
+      "frequency": 74.9,
+      "acceptance": 7321.9,
+      "link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Wildcard Matching",
+      "frequency": 68.7,
+      "acceptance": 2989.8,
+      "link": "https://leetcode.com/problems/wildcard-matching",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Greedy",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Best Time to Buy and Sell Stock",
+      "frequency": 60.1,
+      "acceptance": 5526,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Valid Number",
+      "frequency": 60.1,
+      "acceptance": 2156.4,
+      "link": "https://leetcode.com/problems/valid-number",
+      "topics": [
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Number of Arrows to Burst Balloons",
+      "frequency": 60.1,
+      "acceptance": 6039.2,
+      "link": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Number of Events That Can Be Attended",
+      "frequency": 60.1,
+      "acceptance": 3292.2,
+      "link": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Search Insert Position",
+      "frequency": 60.1,
+      "acceptance": 4901.2,
+      "link": "https://leetcode.com/problems/search-insert-position",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Valid Sudoku",
+      "frequency": 60.1,
+      "acceptance": 6227.7,
+      "link": "https://leetcode.com/problems/valid-sudoku",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Non-overlapping Intervals",
+      "frequency": 60.1,
+      "acceptance": 5550.3,
+      "link": "https://leetcode.com/problems/non-overlapping-intervals",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Merge Intervals",
+      "frequency": 60.1,
+      "acceptance": 4939.5,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Word Search II",
+      "frequency": 60.1,
+      "acceptance": 3732.6,
+      "link": "https://leetcode.com/problems/word-search-ii",
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Trie",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Average Waiting Time",
+      "frequency": 60.1,
+      "acceptance": 7305.2,
+      "link": "https://leetcode.com/problems/average-waiting-time",
+      "topics": [
+        "Array",
+        "Simulation"
+      ]
+    }
+  ]
+}

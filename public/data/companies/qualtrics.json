@@ -1,0 +1,131 @@
+{
+  "id": "qualtrics",
+  "name": "Qualtrics",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Asteroid Collision",
+      "frequency": 100,
+      "acceptance": 48.2,
+      "link": "https://leetcode.com/problems/asteroid-collision",
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Count Square Sum Triples",
+      "frequency": 68.8,
+      "acceptance": 77.2,
+      "link": "https://leetcode.com/problems/count-square-sum-triples",
+      "topics": [
+        "Math",
+        "Enumeration"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Window Substring",
+      "frequency": 68.8,
+      "acceptance": 47.8,
+      "link": "https://leetcode.com/problems/minimum-window-substring",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximal Square",
+      "frequency": 68.8,
+      "acceptance": 50.5,
+      "link": "https://leetcode.com/problems/maximal-square",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Flood Fill",
+      "frequency": 68.8,
+      "acceptance": 68.5,
+      "link": "https://leetcode.com/problems/flood-fill",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Count Square Sum Triples",
+      "frequency": 100,
+      "acceptance": 77.2,
+      "link": "https://leetcode.com/problems/count-square-sum-triples",
+      "topics": [
+        "Math",
+        "Enumeration"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Asteroid Collision",
+      "frequency": 95.1,
+      "acceptance": 48.2,
+      "link": "https://leetcode.com/problems/asteroid-collision",
+      "topics": [
+        "Array",
+        "Stack",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Window Substring",
+      "frequency": 64.9,
+      "acceptance": 47.8,
+      "link": "https://leetcode.com/problems/minimum-window-substring",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximal Square",
+      "frequency": 64.9,
+      "acceptance": 50.5,
+      "link": "https://leetcode.com/problems/maximal-square",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Flood Fill",
+      "frequency": 64.9,
+      "acceptance": 68.5,
+      "link": "https://leetcode.com/problems/flood-fill",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "nordstrom",
+  "name": "Nordstrom",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Course Schedule",
+      "frequency": 100,
+      "acceptance": 51.6,
+      "link": "https://leetcode.com/problems/course-schedule",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Spiral Matrix",
+      "frequency": 82.5,
+      "acceptance": 57.1,
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "LRU Cache",
+      "frequency": 82.5,
+      "acceptance": 47.5,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Display Table of Food Orders in a Restaurant",
+      "frequency": 82.5,
+      "acceptance": 76.4,
+      "link": "https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Ordered Set"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Course Schedule",
+      "frequency": 100,
+      "acceptance": 51.6,
+      "link": "https://leetcode.com/problems/course-schedule",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "LRU Cache",
+      "frequency": 82.5,
+      "acceptance": 47.5,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Spiral Matrix",
+      "frequency": 82.5,
+      "acceptance": 57.1,
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Display Table of Food Orders in a Restaurant",
+      "frequency": 82.5,
+      "acceptance": 76.4,
+      "link": "https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Ordered Set"
+      ]
+    }
+  ]
+}

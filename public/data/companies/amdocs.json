@@ -1,0 +1,100 @@
+{
+  "id": "amdocs",
+  "name": "Amdocs",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+      "frequency": 100,
+      "acceptance": 66.2,
+      "link": "https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Heap (Priority Queue)",
+        "Matrix",
+        "Ordered Set"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Divisible Substrings",
+      "frequency": 65.7,
+      "acceptance": 74.6,
+      "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting",
+        "Prefix Sum"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Divisible Substrings",
+      "frequency": 100,
+      "acceptance": 74.6,
+      "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+      "frequency": 100,
+      "acceptance": 66.2,
+      "link": "https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Heap (Priority Queue)",
+        "Matrix",
+        "Ordered Set"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Construct Uniform Parity Array I",
+      "frequency": 97.6,
+      "acceptance": 76.5,
+      "link": "https://leetcode.com/problems/construct-uniform-parity-array-i",
+      "topics": [
+        "Array",
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Construct Uniform Parity Array II",
+      "frequency": 95,
+      "acceptance": 50.1,
+      "link": "https://leetcode.com/problems/construct-uniform-parity-array-ii",
+      "topics": [
+        "Array",
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Single Number",
+      "frequency": 63.7,
+      "acceptance": 77.9,
+      "link": "https://leetcode.com/problems/single-number",
+      "topics": [
+        "Array",
+        "Bit Manipulation"
+      ]
+    }
+  ]
+}

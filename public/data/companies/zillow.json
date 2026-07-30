@@ -1,0 +1,35 @@
+{
+  "id": "zillow",
+  "name": "Zillow",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Rotate Image",
+      "frequency": 100,
+      "acceptance": 80.3,
+      "link": "https://leetcode.com/problems/rotate-image",
+      "topics": [
+        "Array",
+        "Math",
+        "Matrix"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Rotate Image",
+      "frequency": 100,
+      "acceptance": 80.3,
+      "link": "https://leetcode.com/problems/rotate-image",
+      "topics": [
+        "Array",
+        "Math",
+        "Matrix"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "id": "affirm",
+  "name": "Affirm",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Insert Delete GetRandom O(1)",
+      "frequency": 100,
+      "acceptance": 55.4,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Shortest Uncommon Substring in an Array",
+      "frequency": 87.1,
+      "acceptance": 51,
+      "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Group Anagrams",
+      "frequency": 70.1,
+      "acceptance": 72.8,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+      "frequency": 70.1,
+      "acceptance": 36.7,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "String Compression",
+      "frequency": 66.7,
+      "acceptance": 60.2,
+      "link": "https://leetcode.com/problems/string-compression",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design Hit Counter",
+      "frequency": 62.6,
+      "acceptance": 69.7,
+      "link": "https://leetcode.com/problems/design-hit-counter",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Design",
+        "Queue",
+        "Data Stream"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Anagram",
+      "frequency": 62.6,
+      "acceptance": 68.3,
+      "link": "https://leetcode.com/problems/valid-anagram",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Coin Change",
+      "frequency": 57.2,
+      "acceptance": 48.6,
+      "link": "https://leetcode.com/problems/coin-change",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Parse Lisp Expression",
+      "frequency": 49.7,
+      "acceptance": 53.7,
+      "link": "https://leetcode.com/problems/parse-lisp-expression",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Stack",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Optimal Account Balancing",
+      "frequency": 49.7,
+      "acceptance": 50.5,
+      "link": "https://leetcode.com/problems/optimal-account-balancing",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Bitmask"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Insert Delete GetRandom O(1)",
+      "frequency": 100,
+      "acceptance": 55.4,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Shortest Uncommon Substring in an Array",
+      "frequency": 86.9,
+      "acceptance": 51,
+      "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Parse Lisp Expression",
+      "frequency": 79.3,
+      "acceptance": 53.7,
+      "link": "https://leetcode.com/problems/parse-lisp-expression",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Stack",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Group Anagrams",
+      "frequency": 69.7,
+      "acceptance": 72.8,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+      "frequency": 69.7,
+      "acceptance": 36.7,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "String Compression",
+      "frequency": 66.3,
+      "acceptance": 60.2,
+      "link": "https://leetcode.com/problems/string-compression",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design Hit Counter",
+      "frequency": 62.1,
+      "acceptance": 69.7,
+      "link": "https://leetcode.com/problems/design-hit-counter",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Design",
+        "Queue",
+        "Data Stream"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Anagram",
+      "frequency": 62.1,
+      "acceptance": 68.3,
+      "link": "https://leetcode.com/problems/valid-anagram",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Coin Change",
+      "frequency": 56.7,
+      "acceptance": 48.6,
+      "link": "https://leetcode.com/problems/coin-change",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Optimal Account Balancing",
+      "frequency": 49,
+      "acceptance": 50.5,
+      "link": "https://leetcode.com/problems/optimal-account-balancing",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Bitmask"
+      ]
+    }
+  ]
+}

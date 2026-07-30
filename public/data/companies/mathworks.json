@@ -1,0 +1,790 @@
+{
+  "id": "mathworks",
+  "name": "MathWorks",
+  "thirtyDays": [],
+  "threeMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Binary Tree Cameras",
+      "frequency": 100,
+      "acceptance": 4718.3,
+      "link": "https://leetcode.com/problems/binary-tree-cameras",
+      "topics": [
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Sell Diminishing-Valued Colored Balls",
+      "frequency": 100,
+      "acceptance": 2996.1,
+      "link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Shopping Offers",
+      "frequency": 100,
+      "acceptance": 5190.3,
+      "link": "https://leetcode.com/problems/shopping-offers",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Memoization",
+        "Bitmask"
+      ]
+    }
+  ],
+  "sixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Binary Tree Cameras",
+      "frequency": 100,
+      "acceptance": 4718.3,
+      "link": "https://leetcode.com/problems/binary-tree-cameras",
+      "topics": [
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Sell Diminishing-Valued Colored Balls",
+      "frequency": 100,
+      "acceptance": 2996.1,
+      "link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Shopping Offers",
+      "frequency": 100,
+      "acceptance": 5190.3,
+      "link": "https://leetcode.com/problems/shopping-offers",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Memoization",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Pass the Pillow",
+      "frequency": 65.2,
+      "acceptance": 5655.3,
+      "link": "https://leetcode.com/problems/pass-the-pillow",
+      "topics": [
+        "Math",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Count Subarrays With Fixed Bounds",
+      "frequency": 65.2,
+      "acceptance": 6940.8,
+      "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Monotonic Queue"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Edge Reversals So Every Node Is Reachable",
+      "frequency": 65.2,
+      "acceptance": 5529.1,
+      "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+      "topics": [
+        "Dynamic Programming",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Divisible Triplet Sums",
+      "frequency": 65.2,
+      "acceptance": 6780.6,
+      "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Count Subarrays With Fixed Bounds",
+      "frequency": 100,
+      "acceptance": 6940.8,
+      "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Monotonic Queue"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "String Transformation",
+      "frequency": 81.1,
+      "acceptance": 2511,
+      "link": "https://leetcode.com/problems/string-transformation",
+      "topics": [
+        "Math",
+        "String",
+        "Dynamic Programming",
+        "String Matching"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Number of Alloys",
+      "frequency": 81.1,
+      "acceptance": 3892.3,
+      "link": "https://leetcode.com/problems/maximum-number-of-alloys",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Pass the Pillow",
+      "frequency": 77,
+      "acceptance": 5655.3,
+      "link": "https://leetcode.com/problems/pass-the-pillow",
+      "topics": [
+        "Math",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Total Cost to Hire K Workers",
+      "frequency": 65.6,
+      "acceptance": 4310.7,
+      "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Heap (Priority Queue)",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Reshape the Matrix",
+      "frequency": 65.6,
+      "acceptance": 6389.9,
+      "link": "https://leetcode.com/problems/reshape-the-matrix",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest String Chain",
+      "frequency": 65.6,
+      "acceptance": 6201.5,
+      "link": "https://leetcode.com/problems/longest-string-chain",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Sum of Distances in Tree",
+      "frequency": 65.6,
+      "acceptance": 6534,
+      "link": "https://leetcode.com/problems/sum-of-distances-in-tree",
+      "topics": [
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Graph"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Split Array Largest Sum",
+      "frequency": 65.6,
+      "acceptance": 5810,
+      "link": "https://leetcode.com/problems/split-array-largest-sum",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Greedy",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Edge Reversals So Every Node Is Reachable",
+      "frequency": 65.6,
+      "acceptance": 5529.1,
+      "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+      "topics": [
+        "Dynamic Programming",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Distinct Subsequences",
+      "frequency": 56.6,
+      "acceptance": 5010,
+      "link": "https://leetcode.com/problems/distinct-subsequences",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Reverse Nodes in k-Group",
+      "frequency": 56.6,
+      "acceptance": 6304.4,
+      "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Earliest Second to Mark Indices I",
+      "frequency": 56.6,
+      "acceptance": 3465.7,
+      "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-i",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Earliest Second to Mark Indices II",
+      "frequency": 56.6,
+      "acceptance": 2030.5,
+      "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-ii",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Beautiful Arrangement",
+      "frequency": 56.6,
+      "acceptance": 6452.8,
+      "link": "https://leetcode.com/problems/beautiful-arrangement",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Palindromes After Operations",
+      "frequency": 56.6,
+      "acceptance": 4308.4,
+      "link": "https://leetcode.com/problems/maximum-palindromes-after-operations",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Sorting",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Keyboard Row",
+      "frequency": 56.6,
+      "acceptance": 7245.7,
+      "link": "https://leetcode.com/problems/keyboard-row",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Last Substring in Lexicographical Order",
+      "frequency": 56.6,
+      "acceptance": 3460.1,
+      "link": "https://leetcode.com/problems/last-substring-in-lexicographical-order",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Count Anagrams",
+      "frequency": 56.6,
+      "acceptance": 3523.2,
+      "link": "https://leetcode.com/problems/count-anagrams",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String",
+        "Combinatorics",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Cost Tree From Leaf Values",
+      "frequency": 56.6,
+      "acceptance": 6766.4,
+      "link": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+      "frequency": 56.6,
+      "acceptance": 6283.9,
+      "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+      "topics": [
+        "Math",
+        "String",
+        "Greedy",
+        "Game Theory"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Convert Binary Number in a Linked List to Integer",
+      "frequency": 56.6,
+      "acceptance": 8121.5,
+      "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+      "topics": [
+        "Linked List",
+        "Math"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Count Subarrays With Fixed Bounds",
+      "frequency": 100,
+      "acceptance": 6940.8,
+      "link": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Monotonic Queue"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Number of Alloys",
+      "frequency": 98.5,
+      "acceptance": 3892.3,
+      "link": "https://leetcode.com/problems/maximum-number-of-alloys",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Sell Diminishing-Valued Colored Balls",
+      "frequency": 91.2,
+      "acceptance": 2996.1,
+      "link": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Reshape the Matrix",
+      "frequency": 91.2,
+      "acceptance": 6389.9,
+      "link": "https://leetcode.com/problems/reshape-the-matrix",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Total Cost to Hire K Workers",
+      "frequency": 91.2,
+      "acceptance": 4310.7,
+      "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Heap (Priority Queue)",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Earliest Second to Mark Indices I",
+      "frequency": 88.9,
+      "acceptance": 3465.7,
+      "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-i",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Binary Tree Cameras",
+      "frequency": 88.9,
+      "acceptance": 4718.3,
+      "link": "https://leetcode.com/problems/binary-tree-cameras",
+      "topics": [
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Keyboard Row",
+      "frequency": 88.9,
+      "acceptance": 7245.7,
+      "link": "https://leetcode.com/problems/keyboard-row",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Palindromes After Operations",
+      "frequency": 88.9,
+      "acceptance": 4308.4,
+      "link": "https://leetcode.com/problems/maximum-palindromes-after-operations",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Sorting",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Shopping Offers",
+      "frequency": 88.9,
+      "acceptance": 5190.3,
+      "link": "https://leetcode.com/problems/shopping-offers",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Memoization",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Earliest Second to Mark Indices II",
+      "frequency": 88.9,
+      "acceptance": 2030.5,
+      "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-ii",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Last Substring in Lexicographical Order",
+      "frequency": 88.9,
+      "acceptance": 3460.1,
+      "link": "https://leetcode.com/problems/last-substring-in-lexicographical-order",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Count Anagrams",
+      "frequency": 88.9,
+      "acceptance": 3523.2,
+      "link": "https://leetcode.com/problems/count-anagrams",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String",
+        "Combinatorics",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+      "frequency": 88.9,
+      "acceptance": 6283.9,
+      "link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+      "topics": [
+        "Math",
+        "String",
+        "Greedy",
+        "Game Theory"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Cost Tree From Leaf Values",
+      "frequency": 88.9,
+      "acceptance": 6766.4,
+      "link": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Stack",
+        "Greedy",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Pass the Pillow",
+      "frequency": 80.5,
+      "acceptance": 5655.3,
+      "link": "https://leetcode.com/problems/pass-the-pillow",
+      "topics": [
+        "Math",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "String Transformation",
+      "frequency": 80.5,
+      "acceptance": 2511,
+      "link": "https://leetcode.com/problems/string-transformation",
+      "topics": [
+        "Math",
+        "String",
+        "Dynamic Programming",
+        "String Matching"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Edge Reversals So Every Node Is Reachable",
+      "frequency": 72.6,
+      "acceptance": 5529.1,
+      "link": "https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable",
+      "topics": [
+        "Dynamic Programming",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest String Chain",
+      "frequency": 60.7,
+      "acceptance": 6201.5,
+      "link": "https://leetcode.com/problems/longest-string-chain",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Sum of Distances in Tree",
+      "frequency": 60.7,
+      "acceptance": 6534,
+      "link": "https://leetcode.com/problems/sum-of-distances-in-tree",
+      "topics": [
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Graph"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Divisible Triplet Sums",
+      "frequency": 60.7,
+      "acceptance": 6780.6,
+      "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Split Array Largest Sum",
+      "frequency": 60.7,
+      "acceptance": 5810,
+      "link": "https://leetcode.com/problems/split-array-largest-sum",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Greedy",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Break a Palindrome",
+      "frequency": 51.2,
+      "acceptance": 5154.4,
+      "link": "https://leetcode.com/problems/break-a-palindrome",
+      "topics": [
+        "String",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Reverse Nodes in k-Group",
+      "frequency": 51.2,
+      "acceptance": 6304.4,
+      "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Maximum Difference Between Increasing Elements",
+      "frequency": 51.2,
+      "acceptance": 6610.1,
+      "link": "https://leetcode.com/problems/maximum-difference-between-increasing-elements",
+      "topics": [
+        "Array"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Convert Binary Number in a Linked List to Integer",
+      "frequency": 51.2,
+      "acceptance": 8121.5,
+      "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+      "topics": [
+        "Linked List",
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Repeating Character Replacement",
+      "frequency": 51.2,
+      "acceptance": 5721.2,
+      "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Distinct Subsequences",
+      "frequency": 51.2,
+      "acceptance": 5010,
+      "link": "https://leetcode.com/problems/distinct-subsequences",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Beautiful Arrangement",
+      "frequency": 51.2,
+      "acceptance": 6452.8,
+      "link": "https://leetcode.com/problems/beautiful-arrangement",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Bitmask"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "id": "cognizant",
+  "name": "Cognizant",
+  "thirtyDays": [],
+  "threeMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Second Highest Salary",
+      "frequency": 100,
+      "acceptance": 4386.5,
+      "link": "https://leetcode.com/problems/second-highest-salary",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Median of Two Sorted Arrays",
+      "frequency": 100,
+      "acceptance": 4381.5,
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Palindrome Number",
+      "frequency": 100,
+      "acceptance": 5922.5,
+      "link": "https://leetcode.com/problems/palindrome-number",
+      "topics": [
+        "Math"
+      ]
+    }
+  ],
+  "sixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Count Subarrays of Length Three With a Condition",
+      "frequency": 100,
+      "acceptance": 6195,
+      "link": "https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition",
+      "topics": [
+        "Array"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Palindromic Substring",
+      "frequency": 73.7,
+      "acceptance": 3584.6,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Remove Duplicates from Sorted Array",
+      "frequency": 64.9,
+      "acceptance": 6035.6,
+      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Substring Without Repeating Characters",
+      "frequency": 64.9,
+      "acceptance": 3693.6,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Anagram",
+      "frequency": 64.9,
+      "acceptance": 6666.1,
+      "link": "https://leetcode.com/problems/valid-anagram",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Second Highest Salary",
+      "frequency": 64.9,
+      "acceptance": 4386.5,
+      "link": "https://leetcode.com/problems/second-highest-salary",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Median of Two Sorted Arrays",
+      "frequency": 64.9,
+      "acceptance": 4381.5,
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Palindrome Number",
+      "frequency": 64.9,
+      "acceptance": 5922.5,
+      "link": "https://leetcode.com/problems/palindrome-number",
+      "topics": [
+        "Math"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Palindrome Number",
+      "frequency": 100,
+      "acceptance": 5922.5,
+      "link": "https://leetcode.com/problems/palindrome-number",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 83.3,
+      "acceptance": 5577.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Fibonacci Number",
+      "frequency": 77.9,
+      "acceptance": 7294.5,
+      "link": "https://leetcode.com/problems/fibonacci-number",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Recursion",
+        "Memoization"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Longest Common Prefix",
+      "frequency": 71,
+      "acceptance": 4548.3,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "String",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Managers with at Least 5 Direct Reports",
+      "frequency": 71,
+      "acceptance": 4894,
+      "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Subarray",
+      "frequency": 71,
+      "acceptance": 5210,
+      "link": "https://leetcode.com/problems/maximum-subarray",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Reverse Integer",
+      "frequency": 71,
+      "acceptance": 3030.9,
+      "link": "https://leetcode.com/problems/reverse-integer",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Smallest Value of the Rearranged Number",
+      "frequency": 61.3,
+      "acceptance": 5272.8,
+      "link": "https://leetcode.com/problems/smallest-value-of-the-rearranged-number",
+      "topics": [
+        "Math",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Product Sales Analysis I",
+      "frequency": 61.3,
+      "acceptance": 8458.6,
+      "link": "https://leetcode.com/problems/product-sales-analysis-i",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Merge Sorted Array",
+      "frequency": 61.3,
+      "acceptance": 5292,
+      "link": "https://leetcode.com/problems/merge-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Anagram",
+      "frequency": 61.3,
+      "acceptance": 6666.1,
+      "link": "https://leetcode.com/problems/valid-anagram",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count Primes",
+      "frequency": 61.3,
+      "acceptance": 3479.1,
+      "link": "https://leetcode.com/problems/count-primes",
+      "topics": [
+        "Array",
+        "Math",
+        "Enumeration",
+        "Number Theory"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "3Sum",
+      "frequency": 61.3,
+      "acceptance": 3707.1,
+      "link": "https://leetcode.com/problems/3sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Happy Number",
+      "frequency": 61.3,
+      "acceptance": 5807.3,
+      "link": "https://leetcode.com/problems/happy-number",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "Two Pointers"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Move Zeroes",
+      "frequency": 61.3,
+      "acceptance": 6280.4,
+      "link": "https://leetcode.com/problems/move-zeroes",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Binary Search",
+      "frequency": 61.3,
+      "acceptance": 5956.5,
+      "link": "https://leetcode.com/problems/binary-search",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Merge Two Sorted Lists",
+      "frequency": 61.3,
+      "acceptance": 6684.1,
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Parentheses",
+      "frequency": 61.3,
+      "acceptance": 4232.3,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Add Two Numbers",
+      "frequency": 61.3,
+      "acceptance": 4622.5,
+      "link": "https://leetcode.com/problems/add-two-numbers",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Palindrome Number",
+      "frequency": 100,
+      "acceptance": 5922.5,
+      "link": "https://leetcode.com/problems/palindrome-number",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Count Subarrays of Length Three With a Condition",
+      "frequency": 95.6,
+      "acceptance": 6195,
+      "link": "https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition",
+      "topics": [
+        "Array"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Smallest Value of the Rearranged Number",
+      "frequency": 95.6,
+      "acceptance": 5272.8,
+      "link": "https://leetcode.com/problems/smallest-value-of-the-rearranged-number",
+      "topics": [
+        "Math",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 83.2,
+      "acceptance": 5577.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Fibonacci Number",
+      "frequency": 78.8,
+      "acceptance": 7294.5,
+      "link": "https://leetcode.com/problems/fibonacci-number",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Recursion",
+        "Memoization"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Palindromic Substring",
+      "frequency": 73.4,
+      "acceptance": 3584.6,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Anagram",
+      "frequency": 73.4,
+      "acceptance": 6666.1,
+      "link": "https://leetcode.com/problems/valid-anagram",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Remove Duplicates from Sorted Array",
+      "frequency": 66.5,
+      "acceptance": 6035.6,
+      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Subarray",
+      "frequency": 66.5,
+      "acceptance": 5210,
+      "link": "https://leetcode.com/problems/maximum-subarray",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Product Sales Analysis I",
+      "frequency": 66.5,
+      "acceptance": 8458.6,
+      "link": "https://leetcode.com/problems/product-sales-analysis-i",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Reverse Integer",
+      "frequency": 66.5,
+      "acceptance": 3030.9,
+      "link": "https://leetcode.com/problems/reverse-integer",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Second Highest Salary",
+      "frequency": 66.5,
+      "acceptance": 4386.5,
+      "link": "https://leetcode.com/problems/second-highest-salary",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Managers with at Least 5 Direct Reports",
+      "frequency": 66.5,
+      "acceptance": 4894,
+      "link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Parentheses",
+      "frequency": 66.5,
+      "acceptance": 4232.3,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Longest Common Prefix",
+      "frequency": 66.5,
+      "acceptance": 4548.3,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "String",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Substring Without Repeating Characters",
+      "frequency": 56.7,
+      "acceptance": 3693.6,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Fizz Buzz",
+      "frequency": 56.7,
+      "acceptance": 7437.1,
+      "link": "https://leetcode.com/problems/fizz-buzz",
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Rising Temperature",
+      "frequency": 56.7,
+      "acceptance": 5018.3,
+      "link": "https://leetcode.com/problems/rising-temperature",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Median of Two Sorted Arrays",
+      "frequency": 56.7,
+      "acceptance": 4381.5,
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Add Two Numbers",
+      "frequency": 56.7,
+      "acceptance": 4622.5,
+      "link": "https://leetcode.com/problems/add-two-numbers",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Merge Sorted Array",
+      "frequency": 56.7,
+      "acceptance": 5292,
+      "link": "https://leetcode.com/problems/merge-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count Primes",
+      "frequency": 56.7,
+      "acceptance": 3479.1,
+      "link": "https://leetcode.com/problems/count-primes",
+      "topics": [
+        "Array",
+        "Math",
+        "Enumeration",
+        "Number Theory"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Students and Examinations",
+      "frequency": 56.7,
+      "acceptance": 6049.8,
+      "link": "https://leetcode.com/problems/students-and-examinations",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "3Sum",
+      "frequency": 56.7,
+      "acceptance": 3707.1,
+      "link": "https://leetcode.com/problems/3sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Move Zeroes",
+      "frequency": 56.7,
+      "acceptance": 6280.4,
+      "link": "https://leetcode.com/problems/move-zeroes",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Binary Search",
+      "frequency": 56.7,
+      "acceptance": 5956.5,
+      "link": "https://leetcode.com/problems/binary-search",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Happy Number",
+      "frequency": 56.7,
+      "acceptance": 5807.3,
+      "link": "https://leetcode.com/problems/happy-number",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "Two Pointers"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Merge Two Sorted Lists",
+      "frequency": 56.7,
+      "acceptance": 6684.1,
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Search Insert Position",
+      "frequency": 56.7,
+      "acceptance": 4901.2,
+      "link": "https://leetcode.com/problems/search-insert-position",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    }
+  ]
+}

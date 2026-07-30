@@ -1,0 +1,245 @@
+{
+  "id": "akamai",
+  "name": "Akamai",
+  "thirtyDays": [],
+  "threeMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Palindromic Substrings",
+      "frequency": 100,
+      "acceptance": 72.9,
+      "link": "https://leetcode.com/problems/palindromic-substrings",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    }
+  ],
+  "sixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Contiguous Array",
+      "frequency": 100,
+      "acceptance": 51.6,
+      "link": "https://leetcode.com/problems/contiguous-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Palindromic Substrings",
+      "frequency": 83.6,
+      "acceptance": 72.9,
+      "link": "https://leetcode.com/problems/palindromic-substrings",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Best Time to Buy and Sell Stock",
+      "frequency": 100,
+      "acceptance": 57,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "N-Repeated Element in Size 2N Array",
+      "frequency": 82.6,
+      "acceptance": 80,
+      "link": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Add Two Integers",
+      "frequency": 82.6,
+      "acceptance": 88,
+      "link": "https://leetcode.com/problems/add-two-integers",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "First Unique Character in a String",
+      "frequency": 72.4,
+      "acceptance": 65.7,
+      "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Queue",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Unique Paths",
+      "frequency": 72.4,
+      "acceptance": 67,
+      "link": "https://leetcode.com/problems/unique-paths",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Spiral Matrix",
+      "frequency": 72.4,
+      "acceptance": 57.1,
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "N-Repeated Element in Size 2N Array",
+      "frequency": 100,
+      "acceptance": 80,
+      "link": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Best Time to Buy and Sell Stock",
+      "frequency": 89.8,
+      "acceptance": 57,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Contiguous Array",
+      "frequency": 77.1,
+      "acceptance": 51.6,
+      "link": "https://leetcode.com/problems/contiguous-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Add Two Integers",
+      "frequency": 70.6,
+      "acceptance": 88,
+      "link": "https://leetcode.com/problems/add-two-integers",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 61.4,
+      "acceptance": 57.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "First Unique Character in a String",
+      "frequency": 61.4,
+      "acceptance": 65.7,
+      "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Queue",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Unique Paths",
+      "frequency": 61.4,
+      "acceptance": 67,
+      "link": "https://leetcode.com/problems/unique-paths",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Spiral Matrix",
+      "frequency": 61.4,
+      "acceptance": 57.1,
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Substring Without Repeating Characters",
+      "frequency": 61.4,
+      "acceptance": 39.3,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Palindromic Substrings",
+      "frequency": 61.4,
+      "acceptance": 72.9,
+      "link": "https://leetcode.com/problems/palindromic-substrings",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find Peak Element",
+      "frequency": 61.4,
+      "acceptance": 47,
+      "link": "https://leetcode.com/problems/find-peak-element",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    }
+  ]
+}

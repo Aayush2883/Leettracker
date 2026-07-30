@@ -1,0 +1,481 @@
+{
+  "id": "geico",
+  "name": "Geico",
+  "thirtyDays": [],
+  "threeMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Cinema Seat Allocation",
+      "frequency": 100,
+      "acceptance": 44.7,
+      "link": "https://leetcode.com/problems/cinema-seat-allocation",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Bit Manipulation"
+      ]
+    }
+  ],
+  "sixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Cinema Seat Allocation",
+      "frequency": 100,
+      "acceptance": 44.7,
+      "link": "https://leetcode.com/problems/cinema-seat-allocation",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Bit Manipulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+      "frequency": 83.7,
+      "acceptance": 48.4,
+      "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Number of Potholes That Can Be Fixed",
+      "frequency": 100,
+      "acceptance": 53.4,
+      "link": "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed",
+      "topics": [
+        "String",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Largest Palindromic Number",
+      "frequency": 98,
+      "acceptance": 37.2,
+      "link": "https://leetcode.com/problems/largest-palindromic-number",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+      "frequency": 84.3,
+      "acceptance": 63.7,
+      "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "topics": [
+        "String",
+        "Bit Manipulation",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Coin Change",
+      "frequency": 80.1,
+      "acceptance": 48.6,
+      "link": "https://leetcode.com/problems/coin-change",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "frequency": 80.1,
+      "acceptance": 62.3,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Spaces Cleaning Robot Cleaned",
+      "frequency": 75.1,
+      "acceptance": 64.6,
+      "link": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Cinema Seat Allocation",
+      "frequency": 75.1,
+      "acceptance": 44.7,
+      "link": "https://leetcode.com/problems/cinema-seat-allocation",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Bit Manipulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "First Missing Positive",
+      "frequency": 68.6,
+      "acceptance": 43.1,
+      "link": "https://leetcode.com/problems/first-missing-positive",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+      "frequency": 68.6,
+      "acceptance": 48.4,
+      "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Valid Sudoku",
+      "frequency": 59.4,
+      "acceptance": 64.7,
+      "link": "https://leetcode.com/problems/valid-sudoku",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Happy String",
+      "frequency": 59.4,
+      "acceptance": 65.5,
+      "link": "https://leetcode.com/problems/longest-happy-string",
+      "topics": [
+        "String",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Best Time to Buy and Sell Stock II",
+      "frequency": 59.4,
+      "acceptance": 71.2,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Moves to Spread Stones Over Grid",
+      "frequency": 59.4,
+      "acceptance": 45.8,
+      "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Matrix",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Remove All Adjacent Duplicates In String",
+      "frequency": 59.4,
+      "acceptance": 73.5,
+      "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Integer to Roman",
+      "frequency": 59.4,
+      "acceptance": 71.2,
+      "link": "https://leetcode.com/problems/integer-to-roman",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Path With Maximum Minimum Value",
+      "frequency": 59.4,
+      "acceptance": 54.7,
+      "link": "https://leetcode.com/problems/path-with-maximum-minimum-value",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Heap (Priority Queue)",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Merge Intervals",
+      "frequency": 59.4,
+      "acceptance": 52.1,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Largest Palindromic Number",
+      "frequency": 100,
+      "acceptance": 37.2,
+      "link": "https://leetcode.com/problems/largest-palindromic-number",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Number of Potholes That Can Be Fixed",
+      "frequency": 100,
+      "acceptance": 53.4,
+      "link": "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed",
+      "topics": [
+        "String",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Cinema Seat Allocation",
+      "frequency": 90.7,
+      "acceptance": 44.7,
+      "link": "https://leetcode.com/problems/cinema-seat-allocation",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Bit Manipulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+      "frequency": 87.6,
+      "acceptance": 63.7,
+      "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "topics": [
+        "String",
+        "Bit Manipulation",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Spaces Cleaning Robot Cleaned",
+      "frequency": 79.8,
+      "acceptance": 64.6,
+      "link": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+      "frequency": 79.8,
+      "acceptance": 48.4,
+      "link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Coin Change",
+      "frequency": 79.8,
+      "acceptance": 48.6,
+      "link": "https://leetcode.com/problems/coin-change",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Best Time to Buy and Sell Stock with Cooldown",
+      "frequency": 79.8,
+      "acceptance": 62.3,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "First Missing Positive",
+      "frequency": 68.1,
+      "acceptance": 43.1,
+      "link": "https://leetcode.com/problems/first-missing-positive",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Path With Maximum Minimum Value",
+      "frequency": 68.1,
+      "acceptance": 54.7,
+      "link": "https://leetcode.com/problems/path-with-maximum-minimum-value",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Heap (Priority Queue)",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Merge Intervals",
+      "frequency": 68.1,
+      "acceptance": 52.1,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Valid Sudoku",
+      "frequency": 58.8,
+      "acceptance": 64.7,
+      "link": "https://leetcode.com/problems/valid-sudoku",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Happy String",
+      "frequency": 58.8,
+      "acceptance": 65.5,
+      "link": "https://leetcode.com/problems/longest-happy-string",
+      "topics": [
+        "String",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Moves to Spread Stones Over Grid",
+      "frequency": 58.8,
+      "acceptance": 45.8,
+      "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Matrix",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Best Time to Buy and Sell Stock II",
+      "frequency": 58.8,
+      "acceptance": 71.2,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Remove All Adjacent Duplicates In String",
+      "frequency": 58.8,
+      "acceptance": 73.5,
+      "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Integer to Roman",
+      "frequency": 58.8,
+      "acceptance": 71.2,
+      "link": "https://leetcode.com/problems/integer-to-roman",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Remove All Occurrences of a Substring",
+      "frequency": 58.8,
+      "acceptance": 78.6,
+      "link": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring",
+      "topics": [
+        "String",
+        "Stack",
+        "Simulation"
+      ]
+    }
+  ]
+}

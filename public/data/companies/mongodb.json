@@ -1,0 +1,622 @@
+{
+  "id": "mongodb",
+  "name": "MongoDB",
+  "thirtyDays": [],
+  "threeMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Snapshot Array",
+      "frequency": 100,
+      "acceptance": 36.8,
+      "link": "https://leetcode.com/problems/snapshot-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Design"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "LRU Cache",
+      "frequency": 89.8,
+      "acceptance": 47.5,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Merge Intervals",
+      "frequency": 89.8,
+      "acceptance": 52.1,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    }
+  ],
+  "sixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Snapshot Array",
+      "frequency": 100,
+      "acceptance": 36.8,
+      "link": "https://leetcode.com/problems/snapshot-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Design"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "LRU Cache",
+      "frequency": 87.7,
+      "acceptance": 47.5,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Word Break",
+      "frequency": 77.9,
+      "acceptance": 49.6,
+      "link": "https://leetcode.com/problems/word-break",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Trie",
+        "Memoization"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Merge Intervals",
+      "frequency": 77.9,
+      "acceptance": 52.1,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Implement Trie (Prefix Tree)",
+      "frequency": 100,
+      "acceptance": 69.7,
+      "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Word Break",
+      "frequency": 93.9,
+      "acceptance": 49.6,
+      "link": "https://leetcode.com/problems/word-break",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Trie",
+        "Memoization"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Intersection of Two Arrays",
+      "frequency": 93.9,
+      "acceptance": 77.9,
+      "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Text Justification",
+      "frequency": 85.8,
+      "acceptance": 51.4,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Merge k Sorted Lists",
+      "frequency": 80.4,
+      "acceptance": 59.8,
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Convert JSON String to Object",
+      "frequency": 80.4,
+      "acceptance": 62.1,
+      "link": "https://leetcode.com/problems/convert-json-string-to-object",
+      "topics": []
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Insert Interval",
+      "frequency": 73.5,
+      "acceptance": 45.4,
+      "link": "https://leetcode.com/problems/insert-interval",
+      "topics": [
+        "Array"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Web Crawler Multithreaded",
+      "frequency": 73.5,
+      "acceptance": 51.2,
+      "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Concurrency"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Stock Price Fluctuation",
+      "frequency": 73.5,
+      "acceptance": 49.1,
+      "link": "https://leetcode.com/problems/stock-price-fluctuation",
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Heap (Priority Queue)",
+        "Data Stream",
+        "Ordered Set"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Snapshot Array",
+      "frequency": 73.5,
+      "acceptance": 36.8,
+      "link": "https://leetcode.com/problems/snapshot-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Design"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Merge Two Binary Trees",
+      "frequency": 63.8,
+      "acceptance": 79.1,
+      "link": "https://leetcode.com/problems/merge-two-binary-trees",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Sliding Window Maximum",
+      "frequency": 63.8,
+      "acceptance": 48.9,
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "frequency": 63.8,
+      "acceptance": 69.6,
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Design Search Autocomplete System",
+      "frequency": 63.8,
+      "acceptance": 50,
+      "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+      "topics": [
+        "String",
+        "Depth-First Search",
+        "Design",
+        "Trie",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Data Stream"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Course Schedule II",
+      "frequency": 63.8,
+      "acceptance": 55.7,
+      "link": "https://leetcode.com/problems/course-schedule-ii",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Lowest Common Ancestor of a Binary Tree III",
+      "frequency": 63.8,
+      "acceptance": 83,
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii",
+      "topics": [
+        "Hash Table",
+        "Two Pointers",
+        "Tree",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "String Compression",
+      "frequency": 63.8,
+      "acceptance": 60.2,
+      "link": "https://leetcode.com/problems/string-compression",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Word Break",
+      "frequency": 100,
+      "acceptance": 49.6,
+      "link": "https://leetcode.com/problems/word-break",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Trie",
+        "Memoization"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Implement Trie (Prefix Tree)",
+      "frequency": 100,
+      "acceptance": 69.7,
+      "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Intersection of Two Arrays",
+      "frequency": 97.1,
+      "acceptance": 77.9,
+      "link": "https://leetcode.com/problems/intersection-of-two-arrays",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Snapshot Array",
+      "frequency": 97.1,
+      "acceptance": 36.8,
+      "link": "https://leetcode.com/problems/snapshot-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Design"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Merge k Sorted Lists",
+      "frequency": 85.4,
+      "acceptance": 59.8,
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Text Justification",
+      "frequency": 85.4,
+      "acceptance": 51.4,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Convert JSON String to Object",
+      "frequency": 79.8,
+      "acceptance": 62.1,
+      "link": "https://leetcode.com/problems/convert-json-string-to-object",
+      "topics": []
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "LRU Cache",
+      "frequency": 79.8,
+      "acceptance": 47.5,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Insert Interval",
+      "frequency": 72.6,
+      "acceptance": 45.4,
+      "link": "https://leetcode.com/problems/insert-interval",
+      "topics": [
+        "Array"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Web Crawler Multithreaded",
+      "frequency": 72.6,
+      "acceptance": 51.2,
+      "link": "https://leetcode.com/problems/web-crawler-multithreaded",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Concurrency"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Stock Price Fluctuation",
+      "frequency": 72.6,
+      "acceptance": 49.1,
+      "link": "https://leetcode.com/problems/stock-price-fluctuation",
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Heap (Priority Queue)",
+        "Data Stream",
+        "Ordered Set"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Course Schedule II",
+      "frequency": 72.6,
+      "acceptance": 55.7,
+      "link": "https://leetcode.com/problems/course-schedule-ii",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Merge Intervals",
+      "frequency": 72.6,
+      "acceptance": 52.1,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Merge Two Binary Trees",
+      "frequency": 62.6,
+      "acceptance": 79.1,
+      "link": "https://leetcode.com/problems/merge-two-binary-trees",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Search in Rotated Sorted Array",
+      "frequency": 62.6,
+      "acceptance": 45.1,
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Sliding Window Maximum",
+      "frequency": 62.6,
+      "acceptance": 48.9,
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Lowest Common Ancestor of a Binary Tree",
+      "frequency": 62.6,
+      "acceptance": 69.6,
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Design Search Autocomplete System",
+      "frequency": 62.6,
+      "acceptance": 50,
+      "link": "https://leetcode.com/problems/design-search-autocomplete-system",
+      "topics": [
+        "String",
+        "Depth-First Search",
+        "Design",
+        "Trie",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Data Stream"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Lowest Common Ancestor of a Binary Tree III",
+      "frequency": 62.6,
+      "acceptance": 83,
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii",
+      "topics": [
+        "Hash Table",
+        "Two Pointers",
+        "Tree",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "String Compression",
+      "frequency": 62.6,
+      "acceptance": 60.2,
+      "link": "https://leetcode.com/problems/string-compression",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Word Break II",
+      "frequency": 62.6,
+      "acceptance": 55.7,
+      "link": "https://leetcode.com/problems/word-break-ii",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Backtracking",
+        "Trie",
+        "Memoization"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Merge Two Sorted Lists",
+      "frequency": 62.6,
+      "acceptance": 68.5,
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Clone Graph",
+      "frequency": 62.6,
+      "acceptance": 65.6,
+      "link": "https://leetcode.com/problems/clone-graph",
+      "topics": [
+        "Hash Table",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Time Based Key-Value Store",
+      "frequency": 62.6,
+      "acceptance": 50,
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ]
+    }
+  ]
+}

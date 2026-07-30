@@ -1,0 +1,200 @@
+{
+  "id": "optiver",
+  "name": "Optiver",
+  "thirtyDays": [],
+  "threeMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Design Skiplist",
+      "frequency": 100,
+      "acceptance": 59.8,
+      "link": "https://leetcode.com/problems/design-skiplist",
+      "topics": [
+        "Linked List",
+        "Design"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Number of Days Between Two Dates",
+      "frequency": 90.5,
+      "acceptance": 52.9,
+      "link": "https://leetcode.com/problems/number-of-days-between-two-dates",
+      "topics": [
+        "Math",
+        "String"
+      ]
+    }
+  ],
+  "sixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Design Skiplist",
+      "frequency": 100,
+      "acceptance": 59.8,
+      "link": "https://leetcode.com/problems/design-skiplist",
+      "topics": [
+        "Linked List",
+        "Design"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design Circular Queue",
+      "frequency": 88,
+      "acceptance": 54.9,
+      "link": "https://leetcode.com/problems/design-circular-queue",
+      "topics": [
+        "Array",
+        "Linked List",
+        "Design",
+        "Queue"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Number of Days Between Two Dates",
+      "frequency": 77.6,
+      "acceptance": 52.9,
+      "link": "https://leetcode.com/problems/number-of-days-between-two-dates",
+      "topics": [
+        "Math",
+        "String"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design Circular Queue",
+      "frequency": 100,
+      "acceptance": 54.9,
+      "link": "https://leetcode.com/problems/design-circular-queue",
+      "topics": [
+        "Array",
+        "Linked List",
+        "Design",
+        "Queue"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "LRU Cache",
+      "frequency": 84,
+      "acceptance": 47.5,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Number of Days Between Two Dates",
+      "frequency": 77.4,
+      "acceptance": 52.9,
+      "link": "https://leetcode.com/problems/number-of-days-between-two-dates",
+      "topics": [
+        "Math",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Best Time to Buy and Sell Stock",
+      "frequency": 77.4,
+      "acceptance": 57,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design Circular Queue",
+      "frequency": 100,
+      "acceptance": 54.9,
+      "link": "https://leetcode.com/problems/design-circular-queue",
+      "topics": [
+        "Array",
+        "Linked List",
+        "Design",
+        "Queue"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Design Skiplist",
+      "frequency": 92,
+      "acceptance": 59.8,
+      "link": "https://leetcode.com/problems/design-skiplist",
+      "topics": [
+        "Linked List",
+        "Design"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design Order Management System",
+      "frequency": 89.5,
+      "acceptance": 77.8,
+      "link": "https://leetcode.com/problems/design-order-management-system",
+      "topics": [
+        "Hash Table",
+        "Design"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Number of Days Between Two Dates",
+      "frequency": 83.2,
+      "acceptance": 52.9,
+      "link": "https://leetcode.com/problems/number-of-days-between-two-dates",
+      "topics": [
+        "Math",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "LRU Cache",
+      "frequency": 74.4,
+      "acceptance": 47.5,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Best Time to Buy and Sell Stock",
+      "frequency": 68.2,
+      "acceptance": 57,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Best Time to Buy and Sell Stock II",
+      "frequency": 59.4,
+      "acceptance": 71.2,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    }
+  ]
+}

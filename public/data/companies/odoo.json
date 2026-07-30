@@ -1,0 +1,68 @@
+{
+  "id": "odoo",
+  "name": "Odoo",
+  "thirtyDays": [],
+  "threeMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Valid Parentheses",
+      "frequency": 100,
+      "acceptance": 44.4,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    }
+  ],
+  "sixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Valid Parentheses",
+      "frequency": 100,
+      "acceptance": 44.4,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Valid Parentheses",
+      "frequency": 100,
+      "acceptance": 44.4,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Valid Parentheses",
+      "frequency": 100,
+      "acceptance": 44.4,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Min Stack",
+      "frequency": 82.8,
+      "acceptance": 58.3,
+      "link": "https://leetcode.com/problems/min-stack",
+      "topics": [
+        "Stack",
+        "Design"
+      ]
+    }
+  ]
+}

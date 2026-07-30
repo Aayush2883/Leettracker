@@ -1,0 +1,53 @@
+{
+  "id": "blackstone",
+  "name": "BlackStone",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Reaching Points",
+      "frequency": 100,
+      "acceptance": 34.5,
+      "link": "https://leetcode.com/problems/reaching-points",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Make The String Great",
+      "frequency": 89.7,
+      "acceptance": 68.6,
+      "link": "https://leetcode.com/problems/make-the-string-great",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Reaching Points",
+      "frequency": 100,
+      "acceptance": 34.5,
+      "link": "https://leetcode.com/problems/reaching-points",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Make The String Great",
+      "frequency": 89.7,
+      "acceptance": 68.6,
+      "link": "https://leetcode.com/problems/make-the-string-great",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    }
+  ]
+}

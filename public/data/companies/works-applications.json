@@ -1,0 +1,107 @@
+{
+  "id": "works-applications",
+  "name": "Works Applications",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Largest Number",
+      "frequency": 100,
+      "acceptance": 43.2,
+      "link": "https://leetcode.com/problems/largest-number",
+      "topics": [
+        "Array",
+        "String",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "K Inverse Pairs Array",
+      "frequency": 100,
+      "acceptance": 49,
+      "link": "https://leetcode.com/problems/k-inverse-pairs-array",
+      "topics": [
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Course Schedule III",
+      "frequency": 100,
+      "acceptance": 41.8,
+      "link": "https://leetcode.com/problems/course-schedule-iii",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "3Sum",
+      "frequency": 100,
+      "acceptance": 39.3,
+      "link": "https://leetcode.com/problems/3sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "3Sum",
+      "frequency": 100,
+      "acceptance": 39.3,
+      "link": "https://leetcode.com/problems/3sum",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Course Schedule III",
+      "frequency": 100,
+      "acceptance": 41.8,
+      "link": "https://leetcode.com/problems/course-schedule-iii",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "K Inverse Pairs Array",
+      "frequency": 100,
+      "acceptance": 49,
+      "link": "https://leetcode.com/problems/k-inverse-pairs-array",
+      "topics": [
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Largest Number",
+      "frequency": 100,
+      "acceptance": 43.2,
+      "link": "https://leetcode.com/problems/largest-number",
+      "topics": [
+        "Array",
+        "String",
+        "Greedy",
+        "Sorting"
+      ]
+    }
+  ]
+}

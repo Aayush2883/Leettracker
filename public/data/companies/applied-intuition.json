@@ -1,0 +1,282 @@
+{
+  "id": "applied-intuition",
+  "name": "Applied Intuition",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Shortest Distance from All Buildings",
+      "frequency": 100,
+      "acceptance": 45,
+      "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Shortest Distance from All Buildings",
+      "frequency": 100,
+      "acceptance": 45,
+      "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find Duplicate File in System",
+      "frequency": 73.8,
+      "acceptance": 67.5,
+      "link": "https://leetcode.com/problems/find-duplicate-file-in-system",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "frequency": 71.4,
+      "acceptance": 49.1,
+      "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Best Meeting Point",
+      "frequency": 68.6,
+      "acceptance": 61.5,
+      "link": "https://leetcode.com/problems/best-meeting-point",
+      "topics": [
+        "Array",
+        "Math",
+        "Sorting",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Merge Intervals",
+      "frequency": 65.3,
+      "acceptance": 52.1,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minesweeper",
+      "frequency": 61.2,
+      "acceptance": 68.8,
+      "link": "https://leetcode.com/problems/minesweeper",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Word Abbreviation",
+      "frequency": 56,
+      "acceptance": 62.7,
+      "link": "https://leetcode.com/problems/word-abbreviation",
+      "topics": [
+        "Array",
+        "String",
+        "Greedy",
+        "Trie",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design Circular Queue",
+      "frequency": 48.7,
+      "acceptance": 54.9,
+      "link": "https://leetcode.com/problems/design-circular-queue",
+      "topics": [
+        "Array",
+        "Linked List",
+        "Design",
+        "Queue"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Shortest Path in Binary Matrix",
+      "frequency": 48.7,
+      "acceptance": 51.7,
+      "link": "https://leetcode.com/problems/shortest-path-in-binary-matrix",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Game of Life",
+      "frequency": 48.7,
+      "acceptance": 72.7,
+      "link": "https://leetcode.com/problems/game-of-life",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Shortest Distance from All Buildings",
+      "frequency": 100,
+      "acceptance": 45,
+      "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find Duplicate File in System",
+      "frequency": 74.5,
+      "acceptance": 67.5,
+      "link": "https://leetcode.com/problems/find-duplicate-file-in-system",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "frequency": 72.3,
+      "acceptance": 49.1,
+      "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Merge Intervals",
+      "frequency": 67.2,
+      "acceptance": 52.1,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Best Meeting Point",
+      "frequency": 67.2,
+      "acceptance": 61.5,
+      "link": "https://leetcode.com/problems/best-meeting-point",
+      "topics": [
+        "Array",
+        "Math",
+        "Sorting",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minesweeper",
+      "frequency": 63.9,
+      "acceptance": 68.8,
+      "link": "https://leetcode.com/problems/minesweeper",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Word Abbreviation",
+      "frequency": 54.7,
+      "acceptance": 62.7,
+      "link": "https://leetcode.com/problems/word-abbreviation",
+      "topics": [
+        "Array",
+        "String",
+        "Greedy",
+        "Trie",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design Circular Queue",
+      "frequency": 54.7,
+      "acceptance": 54.9,
+      "link": "https://leetcode.com/problems/design-circular-queue",
+      "topics": [
+        "Array",
+        "Linked List",
+        "Design",
+        "Queue"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Shortest Path in Binary Matrix",
+      "frequency": 47.4,
+      "acceptance": 51.7,
+      "link": "https://leetcode.com/problems/shortest-path-in-binary-matrix",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Game of Life",
+      "frequency": 47.4,
+      "acceptance": 72.7,
+      "link": "https://leetcode.com/problems/game-of-life",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Number of Ships in a Rectangle",
+      "frequency": 47.4,
+      "acceptance": 68.8,
+      "link": "https://leetcode.com/problems/number-of-ships-in-a-rectangle",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Interactive"
+      ]
+    }
+  ]
+}

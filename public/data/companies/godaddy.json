@@ -1,0 +1,121 @@
+{
+  "id": "godaddy",
+  "name": "GoDaddy",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Merge Intervals",
+      "frequency": 100,
+      "acceptance": 52.1,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Parentheses",
+      "frequency": 92.7,
+      "acceptance": 44.4,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Arranging Coins",
+      "frequency": 82.5,
+      "acceptance": 48.3,
+      "link": "https://leetcode.com/problems/arranging-coins",
+      "topics": [
+        "Math",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "String Compression",
+      "frequency": 82.5,
+      "acceptance": 60.2,
+      "link": "https://leetcode.com/problems/string-compression",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Degree of a Connected Trio in a Graph",
+      "frequency": 82.5,
+      "acceptance": 44.6,
+      "link": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph",
+      "topics": [
+        "Graph Theory",
+        "Enumeration"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Arranging Coins",
+      "frequency": 100,
+      "acceptance": 48.3,
+      "link": "https://leetcode.com/problems/arranging-coins",
+      "topics": [
+        "Math",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "String Compression",
+      "frequency": 100,
+      "acceptance": 60.2,
+      "link": "https://leetcode.com/problems/string-compression",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Merge Intervals",
+      "frequency": 84.9,
+      "acceptance": 52.1,
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Parentheses",
+      "frequency": 73.8,
+      "acceptance": 44.4,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Degree of a Connected Trio in a Graph",
+      "frequency": 64.9,
+      "acceptance": 44.6,
+      "link": "https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph",
+      "topics": [
+        "Graph Theory",
+        "Enumeration"
+      ]
+    }
+  ]
+}

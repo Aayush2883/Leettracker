@@ -1,0 +1,53 @@
+{
+  "id": "larsen-toubro",
+  "name": "Larsen & Toubro",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+      "frequency": 100,
+      "acceptance": 6504.1,
+      "link": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "topics": [
+        "Array"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Find the Sum of Encrypted Integers",
+      "frequency": 100,
+      "acceptance": 7365.8,
+      "link": "https://leetcode.com/problems/find-the-sum-of-encrypted-integers",
+      "topics": [
+        "Array",
+        "Math"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Find the Sum of Encrypted Integers",
+      "frequency": 100,
+      "acceptance": 7365.8,
+      "link": "https://leetcode.com/problems/find-the-sum-of-encrypted-integers",
+      "topics": [
+        "Array",
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+      "frequency": 100,
+      "acceptance": 6504.1,
+      "link": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "topics": [
+        "Array"
+      ]
+    }
+  ]
+}

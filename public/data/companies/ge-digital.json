@@ -1,0 +1,77 @@
+{
+  "id": "ge-digital",
+  "name": "GE Digital",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Cost to Set Cooking Time",
+      "frequency": 100,
+      "acceptance": 41.8,
+      "link": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time",
+      "topics": [
+        "Math",
+        "Enumeration"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Degree of an Array",
+      "frequency": 90.2,
+      "acceptance": 58.4,
+      "link": "https://leetcode.com/problems/degree-of-an-array",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Remove to Make Valid Parentheses",
+      "frequency": 90.2,
+      "acceptance": 71.5,
+      "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Degree of an Array",
+      "frequency": 100,
+      "acceptance": 58.4,
+      "link": "https://leetcode.com/problems/degree-of-an-array",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Cost to Set Cooking Time",
+      "frequency": 76.2,
+      "acceptance": 41.8,
+      "link": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time",
+      "topics": [
+        "Math",
+        "Enumeration"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Remove to Make Valid Parentheses",
+      "frequency": 68.2,
+      "acceptance": 71.5,
+      "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    }
+  ]
+}

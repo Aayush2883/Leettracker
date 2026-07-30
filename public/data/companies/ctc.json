@@ -1,0 +1,35 @@
+{
+  "id": "ctc",
+  "name": "CTC",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Best Time to Buy and Sell Stock II",
+      "frequency": 100,
+      "acceptance": 71.2,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Best Time to Buy and Sell Stock II",
+      "frequency": 100,
+      "acceptance": 71.2,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    }
+  ]
+}

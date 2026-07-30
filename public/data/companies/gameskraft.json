@@ -1,0 +1,108 @@
+{
+  "id": "gameskraft",
+  "name": "Gameskraft",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Maximize Sum of Weights after Edge Removals",
+      "frequency": 100,
+      "acceptance": 31.4,
+      "link": "https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals",
+      "topics": [
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Sliding Window Maximum",
+      "frequency": 63.9,
+      "acceptance": 48.9,
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Count Valid Paths in a Tree",
+      "frequency": 63.9,
+      "acceptance": 36.5,
+      "link": "https://leetcode.com/problems/count-valid-paths-in-a-tree",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Number Theory"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Maximize Sum of Weights after Edge Removals",
+      "frequency": 100,
+      "acceptance": 31.4,
+      "link": "https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals",
+      "topics": [
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Maximum Partition Factor",
+      "frequency": 93.1,
+      "acceptance": 32,
+      "link": "https://leetcode.com/problems/maximum-partition-factor",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Sliding Window Maximum",
+      "frequency": 63.3,
+      "acceptance": 48.9,
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Count Valid Paths in a Tree",
+      "frequency": 63.3,
+      "acceptance": 36.5,
+      "link": "https://leetcode.com/problems/count-valid-paths-in-a-tree",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Tree",
+        "Depth-First Search",
+        "Number Theory"
+      ]
+    }
+  ]
+}

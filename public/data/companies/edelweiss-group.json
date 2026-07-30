@@ -1,0 +1,35 @@
+{
+  "id": "edelweiss-group",
+  "name": "Edelweiss Group",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find if Array Can Be Sorted",
+      "frequency": 100,
+      "acceptance": 66.4,
+      "link": "https://leetcode.com/problems/find-if-array-can-be-sorted",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Sorting"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find if Array Can Be Sorted",
+      "frequency": 100,
+      "acceptance": 66.4,
+      "link": "https://leetcode.com/problems/find-if-array-can-be-sorted",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Sorting"
+      ]
+    }
+  ]
+}

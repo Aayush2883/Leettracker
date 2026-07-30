@@ -1,0 +1,494 @@
+{
+  "id": "quora",
+  "name": "Quora",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Insert Delete GetRandom O(1)",
+      "frequency": 100,
+      "acceptance": 55.4,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Construct Target Array With Multiple Sums",
+      "frequency": 100,
+      "acceptance": 37.1,
+      "link": "https://leetcode.com/problems/construct-target-array-with-multiple-sums",
+      "topics": [
+        "Array",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Subarray Sum Equals K",
+      "frequency": 100,
+      "acceptance": 47.6,
+      "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Insert Delete GetRandom O(1)",
+      "frequency": 100,
+      "acceptance": 55.4,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Text Justification",
+      "frequency": 100,
+      "acceptance": 51.4,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Longest Common Prefix",
+      "frequency": 92.1,
+      "acceptance": 47.8,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Substrings of Size Three with Distinct Characters",
+      "frequency": 81,
+      "acceptance": 76.9,
+      "link": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Encode Number",
+      "frequency": 81,
+      "acceptance": 70.4,
+      "link": "https://leetcode.com/problems/encode-number",
+      "topics": [
+        "Math",
+        "String",
+        "Bit Manipulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Sort the Matrix Diagonally",
+      "frequency": 81,
+      "acceptance": 83.2,
+      "link": "https://leetcode.com/problems/sort-the-matrix-diagonally",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Get Biggest Three Rhombus Sums in a Grid",
+      "frequency": 81,
+      "acceptance": 71.3,
+      "link": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid",
+      "topics": [
+        "Array",
+        "Math",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Matrix",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Finding Pairs With a Certain Sum",
+      "frequency": 81,
+      "acceptance": 61.6,
+      "link": "https://leetcode.com/problems/finding-pairs-with-a-certain-sum",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "1-bit and 2-bit Characters",
+      "frequency": 81,
+      "acceptance": 49.6,
+      "link": "https://leetcode.com/problems/1-bit-and-2-bit-characters",
+      "topics": [
+        "Array"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Range Frequency Queries",
+      "frequency": 81,
+      "acceptance": 43.5,
+      "link": "https://leetcode.com/problems/range-frequency-queries",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Design",
+        "Segment Tree"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Find Numbers with Even Number of Digits",
+      "frequency": 81,
+      "acceptance": 79.8,
+      "link": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits",
+      "topics": [
+        "Array",
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Maximum Number of Words You Can Type",
+      "frequency": 81,
+      "acceptance": 82.9,
+      "link": "https://leetcode.com/problems/maximum-number-of-words-you-can-type",
+      "topics": [
+        "Hash Table",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Exam Room",
+      "frequency": 81,
+      "acceptance": 43.6,
+      "link": "https://leetcode.com/problems/exam-room",
+      "topics": [
+        "Design",
+        "Heap (Priority Queue)",
+        "Ordered Set"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Find the K-Beauty of a Number",
+      "frequency": 81,
+      "acceptance": 63.5,
+      "link": "https://leetcode.com/problems/find-the-k-beauty-of-a-number",
+      "topics": [
+        "Math",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Subtract the Product and Sum of Digits of an Integer",
+      "frequency": 81,
+      "acceptance": 86.6,
+      "link": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "3Sum With Multiplicity",
+      "frequency": 81,
+      "acceptance": 46.3,
+      "link": "https://leetcode.com/problems/3sum-with-multiplicity",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Sorting",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Serialize and Deserialize Binary Tree",
+      "frequency": 81,
+      "acceptance": 61,
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+      "topics": [
+        "String",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Design",
+        "Binary Tree"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Construct Target Array With Multiple Sums",
+      "frequency": 100,
+      "acceptance": 37.1,
+      "link": "https://leetcode.com/problems/construct-target-array-with-multiple-sums",
+      "topics": [
+        "Array",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Range Frequency Queries",
+      "frequency": 97.9,
+      "acceptance": 43.5,
+      "link": "https://leetcode.com/problems/range-frequency-queries",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Binary Search",
+        "Design",
+        "Segment Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Encode Number",
+      "frequency": 95.6,
+      "acceptance": 70.4,
+      "link": "https://leetcode.com/problems/encode-number",
+      "topics": [
+        "Math",
+        "String",
+        "Bit Manipulation"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "1-bit and 2-bit Characters",
+      "frequency": 95.6,
+      "acceptance": 49.6,
+      "link": "https://leetcode.com/problems/1-bit-and-2-bit-characters",
+      "topics": [
+        "Array"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Sort the Matrix Diagonally",
+      "frequency": 95.6,
+      "acceptance": 83.2,
+      "link": "https://leetcode.com/problems/sort-the-matrix-diagonally",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Maximum Number of Words You Can Type",
+      "frequency": 95.6,
+      "acceptance": 82.9,
+      "link": "https://leetcode.com/problems/maximum-number-of-words-you-can-type",
+      "topics": [
+        "Hash Table",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Exam Room",
+      "frequency": 95.6,
+      "acceptance": 43.6,
+      "link": "https://leetcode.com/problems/exam-room",
+      "topics": [
+        "Design",
+        "Heap (Priority Queue)",
+        "Ordered Set"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Subtract the Product and Sum of Digits of an Integer",
+      "frequency": 95.6,
+      "acceptance": 86.6,
+      "link": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Find Numbers with Even Number of Digits",
+      "frequency": 95.6,
+      "acceptance": 79.8,
+      "link": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits",
+      "topics": [
+        "Array",
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Find the K-Beauty of a Number",
+      "frequency": 95.6,
+      "acceptance": 63.5,
+      "link": "https://leetcode.com/problems/find-the-k-beauty-of-a-number",
+      "topics": [
+        "Math",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "3Sum With Multiplicity",
+      "frequency": 95.6,
+      "acceptance": 46.3,
+      "link": "https://leetcode.com/problems/3sum-with-multiplicity",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Two Pointers",
+        "Sorting",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Substrings of Size Three with Distinct Characters",
+      "frequency": 95.6,
+      "acceptance": 76.9,
+      "link": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Get Biggest Three Rhombus Sums in a Grid",
+      "frequency": 95.6,
+      "acceptance": 71.3,
+      "link": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid",
+      "topics": [
+        "Array",
+        "Math",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Matrix",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Finding Pairs With a Certain Sum",
+      "frequency": 95.6,
+      "acceptance": 61.6,
+      "link": "https://leetcode.com/problems/finding-pairs-with-a-certain-sum",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Insert Delete GetRandom O(1)",
+      "frequency": 87.1,
+      "acceptance": 55.4,
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Text Justification",
+      "frequency": 79,
+      "acceptance": 51.4,
+      "link": "https://leetcode.com/problems/text-justification",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Subarray Sum Equals K",
+      "frequency": 73.7,
+      "acceptance": 47.6,
+      "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Longest Common Prefix",
+      "frequency": 66.8,
+      "acceptance": 47.8,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Serialize and Deserialize Binary Tree",
+      "frequency": 66.8,
+      "acceptance": 61,
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+      "topics": [
+        "String",
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Design",
+        "Binary Tree"
+      ]
+    }
+  ]
+}

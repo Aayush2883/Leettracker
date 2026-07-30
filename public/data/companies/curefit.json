@@ -1,0 +1,35 @@
+{
+  "id": "curefit",
+  "name": "CureFit",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Moves to Make Array Complementary",
+      "frequency": 100,
+      "acceptance": 64.9,
+      "link": "https://leetcode.com/problems/minimum-moves-to-make-array-complementary",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Moves to Make Array Complementary",
+      "frequency": 100,
+      "acceptance": 64.9,
+      "link": "https://leetcode.com/problems/minimum-moves-to-make-array-complementary",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ]
+    }
+  ]
+}

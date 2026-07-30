@@ -1,0 +1,53 @@
+{
+  "id": "celigo",
+  "name": "Celigo",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Reformat Date",
+      "frequency": 100,
+      "acceptance": 6733.9,
+      "link": "https://leetcode.com/problems/reformat-date",
+      "topics": [
+        "String"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "First Missing Positive",
+      "frequency": 100,
+      "acceptance": 4108.8,
+      "link": "https://leetcode.com/problems/first-missing-positive",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Reformat Date",
+      "frequency": 100,
+      "acceptance": 6733.9,
+      "link": "https://leetcode.com/problems/reformat-date",
+      "topics": [
+        "String"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "First Missing Positive",
+      "frequency": 100,
+      "acceptance": 4108.8,
+      "link": "https://leetcode.com/problems/first-missing-positive",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    }
+  ]
+}

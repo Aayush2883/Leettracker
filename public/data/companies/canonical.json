@@ -1,0 +1,81 @@
+{
+  "id": "canonical",
+  "name": "Canonical",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Evaluate Reverse Polish Notation",
+      "frequency": 100,
+      "acceptance": 58,
+      "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "topics": [
+        "Array",
+        "Math",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Divide a String Into Groups of Size k",
+      "frequency": 83.3,
+      "acceptance": 77,
+      "link": "https://leetcode.com/problems/divide-a-string-into-groups-of-size-k",
+      "topics": [
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Merge Sorted Array",
+      "frequency": 83.3,
+      "acceptance": 55.1,
+      "link": "https://leetcode.com/problems/merge-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Divide a String Into Groups of Size k",
+      "frequency": 100,
+      "acceptance": 77,
+      "link": "https://leetcode.com/problems/divide-a-string-into-groups-of-size-k",
+      "topics": [
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Evaluate Reverse Polish Notation",
+      "frequency": 81.1,
+      "acceptance": 58,
+      "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "topics": [
+        "Array",
+        "Math",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Merge Sorted Array",
+      "frequency": 66.8,
+      "acceptance": 55.1,
+      "link": "https://leetcode.com/problems/merge-sorted-array",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    }
+  ]
+}

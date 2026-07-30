@@ -1,0 +1,35 @@
+{
+  "id": "veritas",
+  "name": "Veritas",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Shifting Letters II",
+      "frequency": 100,
+      "acceptance": 53.7,
+      "link": "https://leetcode.com/problems/shifting-letters-ii",
+      "topics": [
+        "Array",
+        "String",
+        "Prefix Sum"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Shifting Letters II",
+      "frequency": 100,
+      "acceptance": 53.7,
+      "link": "https://leetcode.com/problems/shifting-letters-ii",
+      "topics": [
+        "Array",
+        "String",
+        "Prefix Sum"
+      ]
+    }
+  ]
+}

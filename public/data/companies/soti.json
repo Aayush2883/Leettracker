@@ -1,0 +1,33 @@
+{
+  "id": "soti",
+  "name": "SOTI",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Can Place Flowers",
+      "frequency": 100,
+      "acceptance": 29.2,
+      "link": "https://leetcode.com/problems/can-place-flowers",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Can Place Flowers",
+      "frequency": 100,
+      "acceptance": 29.2,
+      "link": "https://leetcode.com/problems/can-place-flowers",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
+    }
+  ]
+}

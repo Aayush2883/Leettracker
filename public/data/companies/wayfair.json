@@ -1,0 +1,481 @@
+{
+  "id": "wayfair",
+  "name": "Wayfair",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Divisible Substrings",
+      "frequency": 100,
+      "acceptance": 74.6,
+      "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Moves to Reach Target Score",
+      "frequency": 78.8,
+      "acceptance": 52.5,
+      "link": "https://leetcode.com/problems/minimum-moves-to-reach-target-score",
+      "topics": [
+        "Math",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Largest Magic Square",
+      "frequency": 78.8,
+      "acceptance": 75.3,
+      "link": "https://leetcode.com/problems/largest-magic-square",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Group Anagrams",
+      "frequency": 78.8,
+      "acceptance": 72.8,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Reaching Points",
+      "frequency": 78.8,
+      "acceptance": 34.5,
+      "link": "https://leetcode.com/problems/reaching-points",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Palindrome",
+      "frequency": 68.7,
+      "acceptance": 53.6,
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Add Strings",
+      "frequency": 68.7,
+      "acceptance": 52.2,
+      "link": "https://leetcode.com/problems/add-strings",
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Tournament Winners",
+      "frequency": 68.7,
+      "acceptance": 50.1,
+      "link": "https://leetcode.com/problems/tournament-winners",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Best Sightseeing Pair",
+      "frequency": 68.7,
+      "acceptance": 62.7,
+      "link": "https://leetcode.com/problems/best-sightseeing-pair",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+      "frequency": 68.7,
+      "acceptance": 46.3,
+      "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Maximum Number of Balloons",
+      "frequency": 68.7,
+      "acceptance": 64.1,
+      "link": "https://leetcode.com/problems/maximum-number-of-balloons",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Delete Characters to Make Fancy String",
+      "frequency": 68.7,
+      "acceptance": 74.1,
+      "link": "https://leetcode.com/problems/delete-characters-to-make-fancy-string",
+      "topics": [
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Happy String",
+      "frequency": 68.7,
+      "acceptance": 65.5,
+      "link": "https://leetcode.com/problems/longest-happy-string",
+      "topics": [
+        "String",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Team Scores in Football Tournament",
+      "frequency": 68.7,
+      "acceptance": 55.8,
+      "link": "https://leetcode.com/problems/team-scores-in-football-tournament",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design A Leaderboard",
+      "frequency": 68.7,
+      "acceptance": 68.1,
+      "link": "https://leetcode.com/problems/design-a-leaderboard",
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Backspace String Compare",
+      "frequency": 68.7,
+      "acceptance": 50,
+      "link": "https://leetcode.com/problems/backspace-string-compare",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Stack",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Last Person to Fit in the Bus",
+      "frequency": 68.7,
+      "acceptance": 69.4,
+      "link": "https://leetcode.com/problems/last-person-to-fit-in-the-bus",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Sliding Window Maximum",
+      "frequency": 68.7,
+      "acceptance": 48.9,
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Time Needed to Rearrange a Binary String",
+      "frequency": 68.7,
+      "acceptance": 53.3,
+      "link": "https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Least Number of Unique Integers after K Removals",
+      "frequency": 68.7,
+      "acceptance": 63.9,
+      "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Sorting",
+        "Counting"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Best Sightseeing Pair",
+      "frequency": 100,
+      "acceptance": 62.7,
+      "link": "https://leetcode.com/problems/best-sightseeing-pair",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Moves to Reach Target Score",
+      "frequency": 100,
+      "acceptance": 52.5,
+      "link": "https://leetcode.com/problems/minimum-moves-to-reach-target-score",
+      "topics": [
+        "Math",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Largest Magic Square",
+      "frequency": 100,
+      "acceptance": 75.3,
+      "link": "https://leetcode.com/problems/largest-magic-square",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Design A Leaderboard",
+      "frequency": 97.7,
+      "acceptance": 68.1,
+      "link": "https://leetcode.com/problems/design-a-leaderboard",
+      "topics": [
+        "Hash Table",
+        "Design",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+      "frequency": 97.7,
+      "acceptance": 46.3,
+      "link": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Maximum Number of Balloons",
+      "frequency": 97.7,
+      "acceptance": 64.1,
+      "link": "https://leetcode.com/problems/maximum-number-of-balloons",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Delete Characters to Make Fancy String",
+      "frequency": 97.7,
+      "acceptance": 74.1,
+      "link": "https://leetcode.com/problems/delete-characters-to-make-fancy-string",
+      "topics": [
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Happy String",
+      "frequency": 97.7,
+      "acceptance": 65.5,
+      "link": "https://leetcode.com/problems/longest-happy-string",
+      "topics": [
+        "String",
+        "Greedy",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Tournament Winners",
+      "frequency": 97.7,
+      "acceptance": 50.1,
+      "link": "https://leetcode.com/problems/tournament-winners",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Team Scores in Football Tournament",
+      "frequency": 97.7,
+      "acceptance": 55.8,
+      "link": "https://leetcode.com/problems/team-scores-in-football-tournament",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Divisible Substrings",
+      "frequency": 88.9,
+      "acceptance": 74.6,
+      "link": "https://leetcode.com/problems/number-of-divisible-substrings",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Add Strings",
+      "frequency": 68.1,
+      "acceptance": 52.2,
+      "link": "https://leetcode.com/problems/add-strings",
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Group Anagrams",
+      "frequency": 68.1,
+      "acceptance": 72.8,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Reaching Points",
+      "frequency": 68.1,
+      "acceptance": 34.5,
+      "link": "https://leetcode.com/problems/reaching-points",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Palindrome",
+      "frequency": 58.2,
+      "acceptance": 53.6,
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Backspace String Compare",
+      "frequency": 58.2,
+      "acceptance": 50,
+      "link": "https://leetcode.com/problems/backspace-string-compare",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Stack",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Last Person to Fit in the Bus",
+      "frequency": 58.2,
+      "acceptance": 69.4,
+      "link": "https://leetcode.com/problems/last-person-to-fit-in-the-bus",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Sliding Window Maximum",
+      "frequency": 58.2,
+      "acceptance": 48.9,
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Time Needed to Rearrange a Binary String",
+      "frequency": 58.2,
+      "acceptance": 53.3,
+      "link": "https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Least Number of Unique Integers after K Removals",
+      "frequency": 58.2,
+      "acceptance": 63.9,
+      "link": "https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Sorting",
+        "Counting"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "id": "revolut",
+  "name": "Revolut",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Restaurant Growth",
+      "frequency": 100,
+      "acceptance": 59,
+      "link": "https://leetcode.com/problems/restaurant-growth",
+      "topics": [
+        "Database"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Longest Common Prefix",
+      "frequency": 100,
+      "acceptance": 47.8,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Perfect Squares",
+      "frequency": 94.4,
+      "acceptance": 56.6,
+      "link": "https://leetcode.com/problems/perfect-squares",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Reverse Linked List II",
+      "frequency": 86.9,
+      "acceptance": 51.7,
+      "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+      "topics": [
+        "Linked List"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Binary Tree Paths",
+      "frequency": 86.9,
+      "acceptance": 68.8,
+      "link": "https://leetcode.com/problems/binary-tree-paths",
+      "topics": [
+        "String",
+        "Backtracking",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find All Anagrams in a String",
+      "frequency": 81.9,
+      "acceptance": 54,
+      "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Random Pick with Weight",
+      "frequency": 75.5,
+      "acceptance": 49.1,
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Missing Number",
+      "frequency": 75.5,
+      "acceptance": 72.2,
+      "link": "https://leetcode.com/problems/missing-number",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Encode and Decode TinyURL",
+      "frequency": 66.5,
+      "acceptance": 86.7,
+      "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Hash Function"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Simple Bank System",
+      "frequency": 66.5,
+      "acceptance": 69.7,
+      "link": "https://leetcode.com/problems/simple-bank-system",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Simulation"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Longest Common Prefix",
+      "frequency": 100,
+      "acceptance": 47.8,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Perfect Squares",
+      "frequency": 94.4,
+      "acceptance": 56.6,
+      "link": "https://leetcode.com/problems/perfect-squares",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Reverse Linked List II",
+      "frequency": 86.8,
+      "acceptance": 51.7,
+      "link": "https://leetcode.com/problems/reverse-linked-list-ii",
+      "topics": [
+        "Linked List"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Binary Tree Paths",
+      "frequency": 86.8,
+      "acceptance": 68.8,
+      "link": "https://leetcode.com/problems/binary-tree-paths",
+      "topics": [
+        "String",
+        "Backtracking",
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find All Anagrams in a String",
+      "frequency": 81.8,
+      "acceptance": 54,
+      "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Random Pick with Weight",
+      "frequency": 75.3,
+      "acceptance": 49.1,
+      "link": "https://leetcode.com/problems/random-pick-with-weight",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Prefix Sum",
+        "Randomized"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Missing Number",
+      "frequency": 75.3,
+      "acceptance": 72.2,
+      "link": "https://leetcode.com/problems/missing-number",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Restaurant Growth",
+      "frequency": 75.3,
+      "acceptance": 59,
+      "link": "https://leetcode.com/problems/restaurant-growth",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Encode and Decode TinyURL",
+      "frequency": 66.2,
+      "acceptance": 86.7,
+      "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Hash Function"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Simple Bank System",
+      "frequency": 66.2,
+      "acceptance": 69.7,
+      "link": "https://leetcode.com/problems/simple-bank-system",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Design",
+        "Simulation"
+      ]
+    }
+  ]
+}

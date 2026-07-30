@@ -1,0 +1,33 @@
+{
+  "id": "avalara",
+  "name": "Avalara",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Abbreviating the Product of a Range",
+      "frequency": 100,
+      "acceptance": 24.9,
+      "link": "https://leetcode.com/problems/abbreviating-the-product-of-a-range",
+      "topics": [
+        "Math",
+        "Number Theory"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Abbreviating the Product of a Range",
+      "frequency": 100,
+      "acceptance": 24.9,
+      "link": "https://leetcode.com/problems/abbreviating-the-product-of-a-range",
+      "topics": [
+        "Math",
+        "Number Theory"
+      ]
+    }
+  ]
+}

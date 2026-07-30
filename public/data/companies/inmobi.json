@@ -1,0 +1,169 @@
+{
+  "id": "inmobi",
+  "name": "InMobi",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Reach a Number",
+      "frequency": 100,
+      "acceptance": 4389.6,
+      "link": "https://leetcode.com/problems/reach-a-number",
+      "topics": [
+        "Math",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Partition Labels",
+      "frequency": 100,
+      "acceptance": 8153.3,
+      "link": "https://leetcode.com/problems/partition-labels",
+      "topics": [
+        "Hash Table",
+        "Two Pointers",
+        "String",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Maximum Number of Robots Within Budget",
+      "frequency": 100,
+      "acceptance": 3680.9,
+      "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Prefix Sum",
+        "Monotonic Queue"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Redundant Connection",
+      "frequency": 100,
+      "acceptance": 6645.6,
+      "link": "https://leetcode.com/problems/redundant-connection",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Graph"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Longest Valid Parentheses",
+      "frequency": 100,
+      "acceptance": 3631.3,
+      "link": "https://leetcode.com/problems/longest-valid-parentheses",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Trapping Rain Water",
+      "frequency": 100,
+      "acceptance": 6510.2,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Reach a Number",
+      "frequency": 100,
+      "acceptance": 4389.6,
+      "link": "https://leetcode.com/problems/reach-a-number",
+      "topics": [
+        "Math",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Partition Labels",
+      "frequency": 65.2,
+      "acceptance": 8153.3,
+      "link": "https://leetcode.com/problems/partition-labels",
+      "topics": [
+        "Hash Table",
+        "Two Pointers",
+        "String",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Maximum Number of Robots Within Budget",
+      "frequency": 65.2,
+      "acceptance": 3680.9,
+      "link": "https://leetcode.com/problems/maximum-number-of-robots-within-budget",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Prefix Sum",
+        "Monotonic Queue"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Redundant Connection",
+      "frequency": 65.2,
+      "acceptance": 6645.6,
+      "link": "https://leetcode.com/problems/redundant-connection",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Graph"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Longest Valid Parentheses",
+      "frequency": 65.2,
+      "acceptance": 3631.3,
+      "link": "https://leetcode.com/problems/longest-valid-parentheses",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Trapping Rain Water",
+      "frequency": 65.2,
+      "acceptance": 6510.2,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    }
+  ]
+}

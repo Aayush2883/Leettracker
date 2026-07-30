@@ -1,0 +1,33 @@
+{
+  "id": "national-instruments",
+  "name": "National Instruments",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Decoded String at Index",
+      "frequency": 100,
+      "acceptance": 37.4,
+      "link": "https://leetcode.com/problems/decoded-string-at-index",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Decoded String at Index",
+      "frequency": 100,
+      "acceptance": 37.4,
+      "link": "https://leetcode.com/problems/decoded-string-at-index",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    }
+  ]
+}

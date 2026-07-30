@@ -1,0 +1,83 @@
+{
+  "id": "hilabs",
+  "name": "HiLabs",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Maximize the Number of Partitions After Operations",
+      "frequency": 100,
+      "acceptance": 2745.8,
+      "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Water Bottles",
+      "frequency": 100,
+      "acceptance": 7064.8,
+      "link": "https://leetcode.com/problems/water-bottles",
+      "topics": [
+        "Math",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Parsing A Boolean Expression",
+      "frequency": 100,
+      "acceptance": 6990.3,
+      "link": "https://leetcode.com/problems/parsing-a-boolean-expression",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Maximize the Number of Partitions After Operations",
+      "frequency": 100,
+      "acceptance": 2745.8,
+      "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Water Bottles",
+      "frequency": 67.9,
+      "acceptance": 7064.8,
+      "link": "https://leetcode.com/problems/water-bottles",
+      "topics": [
+        "Math",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Parsing A Boolean Expression",
+      "frequency": 67.9,
+      "acceptance": 6990.3,
+      "link": "https://leetcode.com/problems/parsing-a-boolean-expression",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ]
+    }
+  ]
+}

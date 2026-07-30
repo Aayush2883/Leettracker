@@ -1,0 +1,101 @@
+{
+  "id": "hp",
+  "name": "HP",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+      "frequency": 100,
+      "acceptance": 68.8,
+      "link": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks",
+      "topics": [
+        "String",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Cost Homecoming of a Robot in a Grid",
+      "frequency": 91,
+      "acceptance": 51.8,
+      "link": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Longest Palindrome",
+      "frequency": 75.5,
+      "acceptance": 56,
+      "link": "https://leetcode.com/problems/longest-palindrome",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Parentheses",
+      "frequency": 75.5,
+      "acceptance": 44.4,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+      "frequency": 100,
+      "acceptance": 68.8,
+      "link": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks",
+      "topics": [
+        "String",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Cost Homecoming of a Robot in a Grid",
+      "frequency": 91,
+      "acceptance": 51.8,
+      "link": "https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Longest Palindrome",
+      "frequency": 75.5,
+      "acceptance": 56,
+      "link": "https://leetcode.com/problems/longest-palindrome",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Parentheses",
+      "frequency": 75.5,
+      "acceptance": 44.4,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    }
+  ]
+}

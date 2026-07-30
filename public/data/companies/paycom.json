@@ -1,0 +1,57 @@
+{
+  "id": "paycom",
+  "name": "Paycom",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Minimum Absolute Difference",
+      "frequency": 100,
+      "acceptance": 75.2,
+      "link": "https://leetcode.com/problems/minimum-absolute-difference",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Contains Duplicate",
+      "frequency": 90.5,
+      "acceptance": 64.5,
+      "link": "https://leetcode.com/problems/contains-duplicate",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Minimum Absolute Difference",
+      "frequency": 100,
+      "acceptance": 75.2,
+      "link": "https://leetcode.com/problems/minimum-absolute-difference",
+      "topics": [
+        "Array",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Contains Duplicate",
+      "frequency": 84.6,
+      "acceptance": 64.5,
+      "link": "https://leetcode.com/problems/contains-duplicate",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ]
+    }
+  ]
+}

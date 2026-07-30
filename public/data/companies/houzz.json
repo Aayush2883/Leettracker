@@ -1,0 +1,57 @@
+{
+  "id": "houzz",
+  "name": "Houzz",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Basic Calculator III",
+      "frequency": 100,
+      "acceptance": 5247.2,
+      "link": "https://leetcode.com/problems/basic-calculator-iii",
+      "topics": [
+        "Math",
+        "String",
+        "Stack",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Remove 9",
+      "frequency": 100,
+      "acceptance": 5734.5,
+      "link": "https://leetcode.com/problems/remove-9",
+      "topics": [
+        "Math"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Remove 9",
+      "frequency": 100,
+      "acceptance": 5734.5,
+      "link": "https://leetcode.com/problems/remove-9",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Basic Calculator III",
+      "frequency": 100,
+      "acceptance": 5247.2,
+      "link": "https://leetcode.com/problems/basic-calculator-iii",
+      "topics": [
+        "Math",
+        "String",
+        "Stack",
+        "Recursion"
+      ]
+    }
+  ]
+}

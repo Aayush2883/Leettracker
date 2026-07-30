@@ -1,0 +1,95 @@
+{
+  "id": "valve",
+  "name": "Valve",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "String to Integer (atoi)",
+      "frequency": 100,
+      "acceptance": 21.2,
+      "link": "https://leetcode.com/problems/string-to-integer-atoi",
+      "topics": [
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Dota2 Senate",
+      "frequency": 79.9,
+      "acceptance": 50,
+      "link": "https://leetcode.com/problems/dota2-senate",
+      "topics": [
+        "String",
+        "Greedy",
+        "Queue"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Deep Merge of Two Objects",
+      "frequency": 79.9,
+      "acceptance": 65.4,
+      "link": "https://leetcode.com/problems/deep-merge-of-two-objects",
+      "topics": []
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Design Parking System",
+      "frequency": 79.9,
+      "acceptance": 87.2,
+      "link": "https://leetcode.com/problems/design-parking-system",
+      "topics": [
+        "Design",
+        "Simulation",
+        "Counting"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Dota2 Senate",
+      "frequency": 100,
+      "acceptance": 50,
+      "link": "https://leetcode.com/problems/dota2-senate",
+      "topics": [
+        "String",
+        "Greedy",
+        "Queue"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "String to Integer (atoi)",
+      "frequency": 86.1,
+      "acceptance": 21.2,
+      "link": "https://leetcode.com/problems/string-to-integer-atoi",
+      "topics": [
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Deep Merge of Two Objects",
+      "frequency": 67.8,
+      "acceptance": 65.4,
+      "link": "https://leetcode.com/problems/deep-merge-of-two-objects",
+      "topics": []
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Design Parking System",
+      "frequency": 67.8,
+      "acceptance": 87.2,
+      "link": "https://leetcode.com/problems/design-parking-system",
+      "topics": [
+        "Design",
+        "Simulation",
+        "Counting"
+      ]
+    }
+  ]
+}

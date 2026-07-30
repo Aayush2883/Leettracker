@@ -1,0 +1,57 @@
+{
+  "id": "komprise",
+  "name": "Komprise",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Time Needed to Buy Tickets",
+      "frequency": 100,
+      "acceptance": 7070.6,
+      "link": "https://leetcode.com/problems/time-needed-to-buy-tickets",
+      "topics": [
+        "Array",
+        "Queue",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Candy",
+      "frequency": 100,
+      "acceptance": 4670.4,
+      "link": "https://leetcode.com/problems/candy",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Time Needed to Buy Tickets",
+      "frequency": 100,
+      "acceptance": 7070.6,
+      "link": "https://leetcode.com/problems/time-needed-to-buy-tickets",
+      "topics": [
+        "Array",
+        "Queue",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Candy",
+      "frequency": 100,
+      "acceptance": 4670.4,
+      "link": "https://leetcode.com/problems/candy",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
+    }
+  ]
+}

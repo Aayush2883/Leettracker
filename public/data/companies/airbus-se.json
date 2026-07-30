@@ -1,0 +1,101 @@
+{
+  "id": "airbus-se",
+  "name": "Airbus SE",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 100,
+      "acceptance": 57.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Array Changes to Make Differences Equal",
+      "frequency": 89.6,
+      "acceptance": 24.7,
+      "link": "https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find the Number of Good Pairs II",
+      "frequency": 89.6,
+      "acceptance": 26.8,
+      "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-ii",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Find the Number of Good Pairs I",
+      "frequency": 89.6,
+      "acceptance": 86.5,
+      "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-i",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find the Number of Good Pairs II",
+      "frequency": 100,
+      "acceptance": 26.8,
+      "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-ii",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Find the Number of Good Pairs I",
+      "frequency": 100,
+      "acceptance": 86.5,
+      "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-i",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Array Changes to Make Differences Equal",
+      "frequency": 100,
+      "acceptance": 24.7,
+      "link": "https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 74,
+      "acceptance": 57.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    }
+  ]
+}

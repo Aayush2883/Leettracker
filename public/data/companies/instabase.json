@@ -1,0 +1,89 @@
+{
+  "id": "instabase",
+  "name": "instabase",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Subarray With Elements Greater Than Varying Threshold",
+      "frequency": 100,
+      "acceptance": 45.7,
+      "link": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold",
+      "topics": [
+        "Array",
+        "Stack",
+        "Union-Find",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Implement Trie (Prefix Tree)",
+      "frequency": 100,
+      "acceptance": 69.7,
+      "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Course Schedule II",
+      "frequency": 100,
+      "acceptance": 55.7,
+      "link": "https://leetcode.com/problems/course-schedule-ii",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Subarray With Elements Greater Than Varying Threshold",
+      "frequency": 100,
+      "acceptance": 45.7,
+      "link": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold",
+      "topics": [
+        "Array",
+        "Stack",
+        "Union-Find",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Implement Trie (Prefix Tree)",
+      "frequency": 100,
+      "acceptance": 69.7,
+      "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Course Schedule II",
+      "frequency": 100,
+      "acceptance": 55.7,
+      "link": "https://leetcode.com/problems/course-schedule-ii",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort"
+      ]
+    }
+  ]
+}

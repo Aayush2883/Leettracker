@@ -1,0 +1,57 @@
+{
+  "id": "tanium",
+  "name": "Tanium",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Jump Game III",
+      "frequency": 100,
+      "acceptance": 70.3,
+      "link": "https://leetcode.com/problems/jump-game-iii",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Reverse Only Letters",
+      "frequency": 80.6,
+      "acceptance": 68.6,
+      "link": "https://leetcode.com/problems/reverse-only-letters",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Jump Game III",
+      "frequency": 100,
+      "acceptance": 70.3,
+      "link": "https://leetcode.com/problems/jump-game-iii",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Reverse Only Letters",
+      "frequency": 80.6,
+      "acceptance": 68.6,
+      "link": "https://leetcode.com/problems/reverse-only-letters",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    }
+  ]
+}

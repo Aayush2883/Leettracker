@@ -1,0 +1,143 @@
+{
+  "id": "guidewire",
+  "name": "Guidewire",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Moves to Spread Stones Over Grid",
+      "frequency": 100,
+      "acceptance": 45.8,
+      "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Matrix",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+      "frequency": 100,
+      "acceptance": 74.2,
+      "link": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+      "topics": [
+        "Tree",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Construct the Longest New String",
+      "frequency": 100,
+      "acceptance": 54.9,
+      "link": "https://leetcode.com/problems/construct-the-longest-new-string",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Greedy",
+        "Brainteaser"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Get Watched Videos by Your Friends",
+      "frequency": 89.1,
+      "acceptance": 53.4,
+      "link": "https://leetcode.com/problems/get-watched-videos-by-your-friends",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Print Words Vertically",
+      "frequency": 89.1,
+      "acceptance": 67.8,
+      "link": "https://leetcode.com/problems/print-words-vertically",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Moves to Spread Stones Over Grid",
+      "frequency": 100,
+      "acceptance": 45.8,
+      "link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bit Manipulation",
+        "Matrix",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+      "frequency": 100,
+      "acceptance": 74.2,
+      "link": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+      "topics": [
+        "Tree",
+        "Breadth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Construct the Longest New String",
+      "frequency": 100,
+      "acceptance": 54.9,
+      "link": "https://leetcode.com/problems/construct-the-longest-new-string",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Greedy",
+        "Brainteaser"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Print Words Vertically",
+      "frequency": 100,
+      "acceptance": 67.8,
+      "link": "https://leetcode.com/problems/print-words-vertically",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Get Watched Videos by Your Friends",
+      "frequency": 88.9,
+      "acceptance": 53.4,
+      "link": "https://leetcode.com/problems/get-watched-videos-by-your-friends",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Sorting"
+      ]
+    }
+  ]
+}

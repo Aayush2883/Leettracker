@@ -1,0 +1,103 @@
+{
+  "id": "fortinet",
+  "name": "Fortinet",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Construct String With Repeat Limit",
+      "frequency": 100,
+      "acceptance": 70.8,
+      "link": "https://leetcode.com/problems/construct-string-with-repeat-limit",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Heap (Priority Queue)",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Percentage of Users Attended a Contest",
+      "frequency": 89.2,
+      "acceptance": 60.5,
+      "link": "https://leetcode.com/problems/percentage-of-users-attended-a-contest",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Number of Ways to Paint N × 3 Grid",
+      "frequency": 89.2,
+      "acceptance": 80.6,
+      "link": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid",
+      "topics": [
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Palindrome II",
+      "frequency": 89.2,
+      "acceptance": 44.4,
+      "link": "https://leetcode.com/problems/valid-palindrome-ii",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Greedy"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Construct String With Repeat Limit",
+      "frequency": 100,
+      "acceptance": 70.8,
+      "link": "https://leetcode.com/problems/construct-string-with-repeat-limit",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Heap (Priority Queue)",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Percentage of Users Attended a Contest",
+      "frequency": 89,
+      "acceptance": 60.5,
+      "link": "https://leetcode.com/problems/percentage-of-users-attended-a-contest",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Number of Ways to Paint N × 3 Grid",
+      "frequency": 89,
+      "acceptance": 80.6,
+      "link": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid",
+      "topics": [
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Palindrome II",
+      "frequency": 89,
+      "acceptance": 44.4,
+      "link": "https://leetcode.com/problems/valid-palindrome-ii",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Greedy"
+      ]
+    }
+  ]
+}

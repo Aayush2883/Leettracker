@@ -1,0 +1,45 @@
+{
+  "id": "payu",
+  "name": "PayU",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Count Operations to Obtain Zero",
+      "frequency": 100,
+      "acceptance": 79.8,
+      "link": "https://leetcode.com/problems/count-operations-to-obtain-zero",
+      "topics": [
+        "Math",
+        "Simulation"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Count Operations to Obtain Zero",
+      "frequency": 100,
+      "acceptance": 79.8,
+      "link": "https://leetcode.com/problems/count-operations-to-obtain-zero",
+      "topics": [
+        "Math",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Repeating Character Replacement",
+      "frequency": 65.9,
+      "acceptance": 59.9,
+      "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    }
+  ]
+}

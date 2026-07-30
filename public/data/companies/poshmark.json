@@ -1,0 +1,89 @@
+{
+  "id": "poshmark",
+  "name": "Poshmark",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Market Analysis I",
+      "frequency": 100,
+      "acceptance": 5719.3,
+      "link": "https://leetcode.com/problems/market-analysis-i",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Market Analysis II",
+      "frequency": 100,
+      "acceptance": 5784.4,
+      "link": "https://leetcode.com/problems/market-analysis-ii",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count Unguarded Cells in the Grid",
+      "frequency": 100,
+      "acceptance": 6576,
+      "link": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count Unguarded Cells in the Grid",
+      "frequency": 100,
+      "acceptance": 6576,
+      "link": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Market Analysis I",
+      "frequency": 100,
+      "acceptance": 5719.3,
+      "link": "https://leetcode.com/problems/market-analysis-i",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Market Analysis II",
+      "frequency": 100,
+      "acceptance": 5784.4,
+      "link": "https://leetcode.com/problems/market-analysis-ii",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Max Chunks To Make Sorted",
+      "frequency": 66.4,
+      "acceptance": 6404,
+      "link": "https://leetcode.com/problems/max-chunks-to-make-sorted",
+      "topics": [
+        "Array",
+        "Stack",
+        "Greedy",
+        "Sorting",
+        "Monotonic Stack"
+      ]
+    }
+  ]
+}

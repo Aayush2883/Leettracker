@@ -1,0 +1,47 @@
+{
+  "id": "credit-karma",
+  "name": "Credit Karma",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Trapping Rain Water",
+      "frequency": 100,
+      "acceptance": 6510.2,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Monotone Increasing Digits",
+      "frequency": 90.6,
+      "acceptance": 4872.4,
+      "link": "https://leetcode.com/problems/monotone-increasing-digits",
+      "topics": [
+        "Math",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Basic Calculator II",
+      "frequency": 90.6,
+      "acceptance": 4581.2,
+      "link": "https://leetcode.com/problems/basic-calculator-ii",
+      "topics": [
+        "Math",
+        "String",
+        "Stack"
+      ]
+    }
+  ],
+  "all": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "turvo",
+  "name": "Turvo",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Count Good Triplets",
+      "frequency": 100,
+      "acceptance": 85.5,
+      "link": "https://leetcode.com/problems/count-good-triplets",
+      "topics": [
+        "Array",
+        "Enumeration"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Difficulty of a Job Schedule",
+      "frequency": 100,
+      "acceptance": 59.8,
+      "link": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Difficulty of a Job Schedule",
+      "frequency": 100,
+      "acceptance": 59.8,
+      "link": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Count Good Triplets",
+      "frequency": 100,
+      "acceptance": 85.5,
+      "link": "https://leetcode.com/problems/count-good-triplets",
+      "topics": [
+        "Array",
+        "Enumeration"
+      ]
+    }
+  ]
+}

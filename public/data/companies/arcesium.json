@@ -1,0 +1,353 @@
+{
+  "id": "arcesium",
+  "name": "Arcesium",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+      "frequency": 100,
+      "acceptance": 23.7,
+      "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Sorting",
+        "Ordered Set",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "House Robber IV",
+      "frequency": 86.2,
+      "acceptance": 64.7,
+      "link": "https://leetcode.com/problems/house-robber-iv",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Find the Count of Monotonic Pairs I",
+      "frequency": 70.4,
+      "acceptance": 47.6,
+      "link": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Swaps to Group All 1's Together II",
+      "frequency": 70.4,
+      "acceptance": 65.7,
+      "link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii",
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Cycle Length Queries in a Tree",
+      "frequency": 61.2,
+      "acceptance": 60.6,
+      "link": "https://leetcode.com/problems/cycle-length-queries-in-a-tree",
+      "topics": [
+        "Array",
+        "Tree",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of People Aware of a Secret",
+      "frequency": 61.2,
+      "acceptance": 60.7,
+      "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+      "topics": [
+        "Dynamic Programming",
+        "Queue",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count Collisions on a Road",
+      "frequency": 61.2,
+      "acceptance": 58.1,
+      "link": "https://leetcode.com/problems/count-collisions-on-a-road",
+      "topics": [
+        "String",
+        "Stack",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximize the Confusion of an Exam",
+      "frequency": 61.2,
+      "acceptance": 70.2,
+      "link": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam",
+      "topics": [
+        "String",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Length of Subarray With Positive Product",
+      "frequency": 61.2,
+      "acceptance": 44.7,
+      "link": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Edit Distance",
+      "frequency": 61.2,
+      "acceptance": 60.8,
+      "link": "https://leetcode.com/problems/edit-distance",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Maximal Rectangle",
+      "frequency": 61.2,
+      "acceptance": 59.1,
+      "link": "https://leetcode.com/problems/maximal-rectangle",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Stack",
+        "Matrix",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Word Ladder",
+      "frequency": 61.2,
+      "acceptance": 45.8,
+      "link": "https://leetcode.com/problems/word-ladder",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Breadth-First Search"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Median of Two Sorted Arrays",
+      "frequency": 61.2,
+      "acceptance": 46.8,
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Length of Subarray With Positive Product",
+      "frequency": 100,
+      "acceptance": 44.7,
+      "link": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+      "frequency": 100,
+      "acceptance": 23.7,
+      "link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Sorting",
+        "Ordered Set",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Cycle Length Queries in a Tree",
+      "frequency": 97.7,
+      "acceptance": 60.6,
+      "link": "https://leetcode.com/problems/cycle-length-queries-in-a-tree",
+      "topics": [
+        "Array",
+        "Tree",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximize the Confusion of an Exam",
+      "frequency": 97.7,
+      "acceptance": 70.2,
+      "link": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam",
+      "topics": [
+        "String",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count Collisions on a Road",
+      "frequency": 97.7,
+      "acceptance": 58.1,
+      "link": "https://leetcode.com/problems/count-collisions-on-a-road",
+      "topics": [
+        "String",
+        "Stack",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of People Aware of a Secret",
+      "frequency": 97.7,
+      "acceptance": 60.7,
+      "link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+      "topics": [
+        "Dynamic Programming",
+        "Queue",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "House Robber IV",
+      "frequency": 85.5,
+      "acceptance": 64.7,
+      "link": "https://leetcode.com/problems/house-robber-iv",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Find the Count of Monotonic Pairs I",
+      "frequency": 68.9,
+      "acceptance": 47.6,
+      "link": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Swaps to Group All 1's Together II",
+      "frequency": 68.9,
+      "acceptance": 65.7,
+      "link": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii",
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Edit Distance",
+      "frequency": 59.3,
+      "acceptance": 60.8,
+      "link": "https://leetcode.com/problems/edit-distance",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Maximal Rectangle",
+      "frequency": 59.3,
+      "acceptance": 59.1,
+      "link": "https://leetcode.com/problems/maximal-rectangle",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Stack",
+        "Matrix",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Median of Two Sorted Arrays",
+      "frequency": 59.3,
+      "acceptance": 46.8,
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Word Ladder",
+      "frequency": 59.3,
+      "acceptance": 45.8,
+      "link": "https://leetcode.com/problems/word-ladder",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Breadth-First Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Substring Without Repeating Characters",
+      "frequency": 59.3,
+      "acceptance": 39.3,
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    }
+  ]
+}

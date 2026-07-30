@@ -1,0 +1,71 @@
+{
+  "id": "harness",
+  "name": "Harness",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Count Good Subarrays",
+      "frequency": 100,
+      "acceptance": 25.3,
+      "link": "https://leetcode.com/problems/count-good-subarrays",
+      "topics": [
+        "Array",
+        "Stack",
+        "Bit Manipulation",
+        "Monotonic Stack"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Window Substring",
+      "frequency": 100,
+      "acceptance": 47.8,
+      "link": "https://leetcode.com/problems/minimum-window-substring",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "First Missing Positive",
+      "frequency": 100,
+      "acceptance": 43.1,
+      "link": "https://leetcode.com/problems/first-missing-positive",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "3Sum Closest",
+      "frequency": 100,
+      "acceptance": 48.8,
+      "link": "https://leetcode.com/problems/3sum-closest",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Simplify Path",
+      "frequency": 100,
+      "acceptance": 4786.4,
+      "link": "https://leetcode.com/problems/simplify-path",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    }
+  ]
+}

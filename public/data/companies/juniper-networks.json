@@ -1,0 +1,83 @@
+{
+  "id": "juniper-networks",
+  "name": "Juniper Networks",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Boundary of Binary Tree",
+      "frequency": 100,
+      "acceptance": 4715.9,
+      "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Coin Change",
+      "frequency": 100,
+      "acceptance": 4649.6,
+      "link": "https://leetcode.com/problems/coin-change",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Add Two Numbers II",
+      "frequency": 100,
+      "acceptance": 6175.5,
+      "link": "https://leetcode.com/problems/add-two-numbers-ii",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Stack"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Boundary of Binary Tree",
+      "frequency": 100,
+      "acceptance": 4715.9,
+      "link": "https://leetcode.com/problems/boundary-of-binary-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Coin Change",
+      "frequency": 100,
+      "acceptance": 4649.6,
+      "link": "https://leetcode.com/problems/coin-change",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Breadth-First Search"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Add Two Numbers II",
+      "frequency": 100,
+      "acceptance": 6175.5,
+      "link": "https://leetcode.com/problems/add-two-numbers-ii",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Stack"
+      ]
+    }
+  ]
+}

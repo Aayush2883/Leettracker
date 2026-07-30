@@ -1,0 +1,35 @@
+{
+  "id": "moengage",
+  "name": "Moengage",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Redistribute Characters to Make All Strings Equal",
+      "frequency": 100,
+      "acceptance": 66.9,
+      "link": "https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Redistribute Characters to Make All Strings Equal",
+      "frequency": 100,
+      "acceptance": 66.9,
+      "link": "https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ]
+    }
+  ]
+}

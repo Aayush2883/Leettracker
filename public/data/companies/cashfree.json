@@ -1,0 +1,81 @@
+{
+  "id": "cashfree",
+  "name": "Cashfree",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "House Robber IV",
+      "frequency": 100,
+      "acceptance": 6515.8,
+      "link": "https://leetcode.com/problems/house-robber-iv",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Erasure Value",
+      "frequency": 100,
+      "acceptance": 5942,
+      "link": "https://leetcode.com/problems/maximum-erasure-value",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Non-decreasing Array",
+      "frequency": 100,
+      "acceptance": 2507.9,
+      "link": "https://leetcode.com/problems/non-decreasing-array",
+      "topics": [
+        "Array"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "House Robber IV",
+      "frequency": 100,
+      "acceptance": 6515.8,
+      "link": "https://leetcode.com/problems/house-robber-iv",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Erasure Value",
+      "frequency": 100,
+      "acceptance": 5942,
+      "link": "https://leetcode.com/problems/maximum-erasure-value",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Non-decreasing Array",
+      "frequency": 66.3,
+      "acceptance": 2507.9,
+      "link": "https://leetcode.com/problems/non-decreasing-array",
+      "topics": [
+        "Array"
+      ]
+    }
+  ]
+}

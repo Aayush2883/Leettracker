@@ -1,0 +1,131 @@
+{
+  "id": "thoughtworks",
+  "name": "ThoughtWorks",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Maximize the Number of Partitions After Operations",
+      "frequency": 100,
+      "acceptance": 53.4,
+      "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Maximum GCD-Sum of a Subarray",
+      "frequency": 100,
+      "acceptance": 38.9,
+      "link": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Number Theory"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Number of Subarrays That Match a Pattern II",
+      "frequency": 100,
+      "acceptance": 33.9,
+      "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+      "topics": [
+        "Array",
+        "Rolling Hash",
+        "String Matching",
+        "Hash Function"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Number of Bit Changes to Make Two Integers Equal",
+      "frequency": 65.6,
+      "acceptance": 63.6,
+      "link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal",
+      "topics": [
+        "Bit Manipulation"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 65.6,
+      "acceptance": 57.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Number of Bit Changes to Make Two Integers Equal",
+      "frequency": 100,
+      "acceptance": 63.6,
+      "link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal",
+      "topics": [
+        "Bit Manipulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Maximum GCD-Sum of a Subarray",
+      "frequency": 100,
+      "acceptance": 38.9,
+      "link": "https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray",
+      "topics": [
+        "Array",
+        "Math",
+        "Binary Search",
+        "Number Theory"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Maximize the Number of Partitions After Operations",
+      "frequency": 100,
+      "acceptance": 53.4,
+      "link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Number of Subarrays That Match a Pattern II",
+      "frequency": 100,
+      "acceptance": 33.9,
+      "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+      "topics": [
+        "Array",
+        "Rolling Hash",
+        "String Matching",
+        "Hash Function"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 64.5,
+      "acceptance": 57.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "activision",
+  "name": "Activision",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Decode String",
+      "frequency": 100,
+      "acceptance": 62.8,
+      "link": "https://leetcode.com/problems/decode-string",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Reformat Phone Number",
+      "frequency": 89.4,
+      "acceptance": 67.7,
+      "link": "https://leetcode.com/problems/reformat-phone-number",
+      "topics": [
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Divisible Triplet Sums",
+      "frequency": 89.4,
+      "acceptance": 67.6,
+      "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Reformat Phone Number",
+      "frequency": 100,
+      "acceptance": 67.7,
+      "link": "https://leetcode.com/problems/reformat-phone-number",
+      "topics": [
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Decode String",
+      "frequency": 81,
+      "acceptance": 62.8,
+      "link": "https://leetcode.com/problems/decode-string",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Divisible Triplet Sums",
+      "frequency": 66.7,
+      "acceptance": 67.6,
+      "link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    }
+  ]
+}

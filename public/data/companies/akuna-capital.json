@@ -1,0 +1,429 @@
+{
+  "id": "akuna-capital",
+  "name": "Akuna Capital",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Star Sum of a Graph",
+      "frequency": 100,
+      "acceptance": 42.5,
+      "link": "https://leetcode.com/problems/maximum-star-sum-of-a-graph",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Graph Theory",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Can Make Palindrome from Substring",
+      "frequency": 82.8,
+      "acceptance": 41.8,
+      "link": "https://leetcode.com/problems/can-make-palindrome-from-substring",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Bit Manipulation",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Delete and Earn",
+      "frequency": 82.8,
+      "acceptance": 57.3,
+      "link": "https://leetcode.com/problems/delete-and-earn",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Increasing Decreasing String",
+      "frequency": 72.7,
+      "acceptance": 77.4,
+      "link": "https://leetcode.com/problems/increasing-decreasing-string",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Operations to Make Network Connected",
+      "frequency": 72.7,
+      "acceptance": 66.8,
+      "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Map Sum Pairs",
+      "frequency": 72.7,
+      "acceptance": 57.2,
+      "link": "https://leetcode.com/problems/map-sum-pairs",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Constrained Subsequence Sum",
+      "frequency": 72.7,
+      "acceptance": 56.4,
+      "link": "https://leetcode.com/problems/constrained-subsequence-sum",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Cherry Pickup",
+      "frequency": 72.7,
+      "acceptance": 39.7,
+      "link": "https://leetcode.com/problems/cherry-pickup",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Network Delay Time",
+      "frequency": 72.7,
+      "acceptance": 60.8,
+      "link": "https://leetcode.com/problems/network-delay-time",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Heap (Priority Queue)",
+        "Shortest Path"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Number of Taps to Open to Water a Garden",
+      "frequency": 72.7,
+      "acceptance": 51,
+      "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Create Sorted Array through Instructions",
+      "frequency": 72.7,
+      "acceptance": 42,
+      "link": "https://leetcode.com/problems/create-sorted-array-through-instructions",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer",
+        "Binary Indexed Tree",
+        "Segment Tree",
+        "Merge Sort",
+        "Ordered Set"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Initial Energy to Finish Tasks",
+      "frequency": 72.7,
+      "acceptance": 76.4,
+      "link": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Reduce Array Size to The Half",
+      "frequency": 72.7,
+      "acceptance": 69.4,
+      "link": "https://leetcode.com/problems/reduce-array-size-to-the-half",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Number of Different Subsequences GCDs",
+      "frequency": 72.7,
+      "acceptance": 46.2,
+      "link": "https://leetcode.com/problems/number-of-different-subsequences-gcds",
+      "topics": [
+        "Array",
+        "Math",
+        "Counting",
+        "Number Theory"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Dice Roll Simulation",
+      "frequency": 72.7,
+      "acceptance": 50.9,
+      "link": "https://leetcode.com/problems/dice-roll-simulation",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Critical Connections in a Network",
+      "frequency": 72.7,
+      "acceptance": 59.9,
+      "link": "https://leetcode.com/problems/critical-connections-in-a-network",
+      "topics": [
+        "Depth-First Search",
+        "Graph Theory",
+        "Biconnected Component"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Delete and Earn",
+      "frequency": 100,
+      "acceptance": 57.3,
+      "link": "https://leetcode.com/problems/delete-and-earn",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Can Make Palindrome from Substring",
+      "frequency": 100,
+      "acceptance": 41.8,
+      "link": "https://leetcode.com/problems/can-make-palindrome-from-substring",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Bit Manipulation",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Map Sum Pairs",
+      "frequency": 97.7,
+      "acceptance": 57.2,
+      "link": "https://leetcode.com/problems/map-sum-pairs",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Cherry Pickup",
+      "frequency": 97.7,
+      "acceptance": 39.7,
+      "link": "https://leetcode.com/problems/cherry-pickup",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Network Delay Time",
+      "frequency": 97.7,
+      "acceptance": 60.8,
+      "link": "https://leetcode.com/problems/network-delay-time",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Heap (Priority Queue)",
+        "Shortest Path"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Create Sorted Array through Instructions",
+      "frequency": 97.7,
+      "acceptance": 42,
+      "link": "https://leetcode.com/problems/create-sorted-array-through-instructions",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer",
+        "Binary Indexed Tree",
+        "Segment Tree",
+        "Merge Sort",
+        "Ordered Set"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Initial Energy to Finish Tasks",
+      "frequency": 97.7,
+      "acceptance": 76.4,
+      "link": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Constrained Subsequence Sum",
+      "frequency": 97.7,
+      "acceptance": 56.4,
+      "link": "https://leetcode.com/problems/constrained-subsequence-sum",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Monotonic Queue"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Dice Roll Simulation",
+      "frequency": 97.7,
+      "acceptance": 50.9,
+      "link": "https://leetcode.com/problems/dice-roll-simulation",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Number of Different Subsequences GCDs",
+      "frequency": 97.7,
+      "acceptance": 46.2,
+      "link": "https://leetcode.com/problems/number-of-different-subsequences-gcds",
+      "topics": [
+        "Array",
+        "Math",
+        "Counting",
+        "Number Theory"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Operations to Make Network Connected",
+      "frequency": 97.7,
+      "acceptance": 66.8,
+      "link": "https://leetcode.com/problems/number-of-operations-to-make-network-connected",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Graph Theory"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Number of Taps to Open to Water a Garden",
+      "frequency": 97.7,
+      "acceptance": 51,
+      "link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Reduce Array Size to The Half",
+      "frequency": 97.7,
+      "acceptance": 69.4,
+      "link": "https://leetcode.com/problems/reduce-array-size-to-the-half",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Increasing Decreasing String",
+      "frequency": 97.7,
+      "acceptance": 77.4,
+      "link": "https://leetcode.com/problems/increasing-decreasing-string",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Star Sum of a Graph",
+      "frequency": 85.2,
+      "acceptance": 42.5,
+      "link": "https://leetcode.com/problems/maximum-star-sum-of-a-graph",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Graph Theory",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Critical Connections in a Network",
+      "frequency": 58.3,
+      "acceptance": 59.9,
+      "link": "https://leetcode.com/problems/critical-connections-in-a-network",
+      "topics": [
+        "Depth-First Search",
+        "Graph Theory",
+        "Biconnected Component"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "id": "hudson-river-trading",
+  "name": "Hudson River Trading",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Detect Pattern of Length M Repeated K or More Times",
+      "frequency": 100,
+      "acceptance": 4348.7,
+      "link": "https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times",
+      "topics": [
+        "Array",
+        "Enumeration"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Convert Integer to the Sum of Two No-Zero Integers",
+      "frequency": 88.9,
+      "acceptance": 5423.9,
+      "link": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "frequency": 88.9,
+      "acceptance": 8563.1,
+      "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero",
+      "topics": [
+        "Math",
+        "Bit Manipulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Add Edges to Make Degrees of All Nodes Even",
+      "frequency": 88.9,
+      "acceptance": 3351.7,
+      "link": "https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even",
+      "topics": [
+        "Hash Table",
+        "Graph"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Maximum 69 Number",
+      "frequency": 88.9,
+      "acceptance": 8176.7,
+      "link": "https://leetcode.com/problems/maximum-69-number",
+      "topics": [
+        "Math",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Total Importance of Roads",
+      "frequency": 88.9,
+      "acceptance": 6916.4,
+      "link": "https://leetcode.com/problems/maximum-total-importance-of-roads",
+      "topics": [
+        "Greedy",
+        "Graph",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Maximum Score From Grid Operations",
+      "frequency": 88.9,
+      "acceptance": 2422.6,
+      "link": "https://leetcode.com/problems/maximum-score-from-grid-operations",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Longest Path With Different Adjacent Characters",
+      "frequency": 88.9,
+      "acceptance": 5391.7,
+      "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+      "topics": [
+        "Array",
+        "String",
+        "Tree",
+        "Depth-First Search",
+        "Graph",
+        "Topological Sort"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Detect Pattern of Length M Repeated K or More Times",
+      "frequency": 100,
+      "acceptance": 4348.7,
+      "link": "https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times",
+      "topics": [
+        "Array",
+        "Enumeration"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Add Edges to Make Degrees of All Nodes Even",
+      "frequency": 97.8,
+      "acceptance": 3351.7,
+      "link": "https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even",
+      "topics": [
+        "Hash Table",
+        "Graph"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Longest Path With Different Adjacent Characters",
+      "frequency": 97.8,
+      "acceptance": 5391.7,
+      "link": "https://leetcode.com/problems/longest-path-with-different-adjacent-characters",
+      "topics": [
+        "Array",
+        "String",
+        "Tree",
+        "Depth-First Search",
+        "Graph",
+        "Topological Sort"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Total Importance of Roads",
+      "frequency": 97.8,
+      "acceptance": 6916.4,
+      "link": "https://leetcode.com/problems/maximum-total-importance-of-roads",
+      "topics": [
+        "Greedy",
+        "Graph",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Convert Integer to the Sum of Two No-Zero Integers",
+      "frequency": 97.8,
+      "acceptance": 5423.9,
+      "link": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "frequency": 97.8,
+      "acceptance": 8563.1,
+      "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero",
+      "topics": [
+        "Math",
+        "Bit Manipulation"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Maximum 69 Number",
+      "frequency": 97.8,
+      "acceptance": 8176.7,
+      "link": "https://leetcode.com/problems/maximum-69-number",
+      "topics": [
+        "Math",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Maximum Score From Grid Operations",
+      "frequency": 97.8,
+      "acceptance": 2422.6,
+      "link": "https://leetcode.com/problems/maximum-score-from-grid-operations",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Remove Comments",
+      "frequency": 60.9,
+      "acceptance": 3940.7,
+      "link": "https://leetcode.com/problems/remove-comments",
+      "topics": [
+        "Array",
+        "String"
+      ]
+    }
+  ]
+}

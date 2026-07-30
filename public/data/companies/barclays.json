@@ -1,0 +1,396 @@
+{
+  "id": "barclays",
+  "name": "Barclays",
+  "thirtyDays": [
+    {
+      "difficulty": "HARD",
+      "title": "Remove Boxes",
+      "frequency": 100,
+      "acceptance": 49.5,
+      "link": "https://leetcode.com/problems/remove-boxes",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Memoization"
+      ]
+    }
+  ],
+  "threeMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Remove Boxes",
+      "frequency": 100,
+      "acceptance": 49.5,
+      "link": "https://leetcode.com/problems/remove-boxes",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Memoization"
+      ]
+    }
+  ],
+  "sixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Partition Labels",
+      "frequency": 100,
+      "acceptance": 81.9,
+      "link": "https://leetcode.com/problems/partition-labels",
+      "topics": [
+        "Hash Table",
+        "Two Pointers",
+        "String",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Remove Boxes",
+      "frequency": 100,
+      "acceptance": 49.5,
+      "link": "https://leetcode.com/problems/remove-boxes",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Memoization"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Lexicographically Smallest Generated String",
+      "frequency": 100,
+      "acceptance": 53.5,
+      "link": "https://leetcode.com/problems/lexicographically-smallest-generated-string",
+      "topics": [
+        "String",
+        "Greedy",
+        "String Matching"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Double Modular Exponentiation",
+      "frequency": 64.3,
+      "acceptance": 48.2,
+      "link": "https://leetcode.com/problems/double-modular-exponentiation",
+      "topics": [
+        "Array",
+        "Math",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Furthest Point From Origin",
+      "frequency": 64.3,
+      "acceptance": 77.1,
+      "link": "https://leetcode.com/problems/furthest-point-from-origin",
+      "topics": [
+        "String",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+      "frequency": 55.9,
+      "acceptance": 74.9,
+      "link": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Mark Elements on Array by Performing Queries",
+      "frequency": 55.9,
+      "acceptance": 49.5,
+      "link": "https://leetcode.com/problems/mark-elements-on-array-by-performing-queries",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Lexicographical Numbers",
+      "frequency": 55.9,
+      "acceptance": 76.3,
+      "link": "https://leetcode.com/problems/lexicographical-numbers",
+      "topics": [
+        "Depth-First Search",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Islands",
+      "frequency": 55.9,
+      "acceptance": 64.6,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Second Highest Salary",
+      "frequency": 55.9,
+      "acceptance": 47.4,
+      "link": "https://leetcode.com/problems/second-highest-salary",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Longest Common Prefix",
+      "frequency": 55.9,
+      "acceptance": 47.8,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Next Greater Element I",
+      "frequency": 55.9,
+      "acceptance": 76.4,
+      "link": "https://leetcode.com/problems/next-greater-element-i",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Reverse Words in a String",
+      "frequency": 55.9,
+      "acceptance": 56.8,
+      "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Number of Days to Make m Bouquets",
+      "frequency": 55.9,
+      "acceptance": 56.7,
+      "link": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Lexicographically Smallest Generated String",
+      "frequency": 100,
+      "acceptance": 53.5,
+      "link": "https://leetcode.com/problems/lexicographically-smallest-generated-string",
+      "topics": [
+        "String",
+        "Greedy",
+        "String Matching"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Double Modular Exponentiation",
+      "frequency": 89.5,
+      "acceptance": 48.2,
+      "link": "https://leetcode.com/problems/double-modular-exponentiation",
+      "topics": [
+        "Array",
+        "Math",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Furthest Point From Origin",
+      "frequency": 89.5,
+      "acceptance": 77.1,
+      "link": "https://leetcode.com/problems/furthest-point-from-origin",
+      "topics": [
+        "String",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+      "frequency": 87.5,
+      "acceptance": 74.9,
+      "link": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Mark Elements on Array by Performing Queries",
+      "frequency": 87.5,
+      "acceptance": 49.5,
+      "link": "https://leetcode.com/problems/mark-elements-on-array-by-performing-queries",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Partition Labels",
+      "frequency": 61.8,
+      "acceptance": 81.9,
+      "link": "https://leetcode.com/problems/partition-labels",
+      "topics": [
+        "Hash Table",
+        "Two Pointers",
+        "String",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Lexicographical Numbers",
+      "frequency": 53.2,
+      "acceptance": 76.3,
+      "link": "https://leetcode.com/problems/lexicographical-numbers",
+      "topics": [
+        "Depth-First Search",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Valid Parentheses",
+      "frequency": 53.2,
+      "acceptance": 44.4,
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "topics": [
+        "String",
+        "Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Islands",
+      "frequency": 53.2,
+      "acceptance": 64.6,
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Second Highest Salary",
+      "frequency": 53.2,
+      "acceptance": 47.4,
+      "link": "https://leetcode.com/problems/second-highest-salary",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Longest Common Prefix",
+      "frequency": 53.2,
+      "acceptance": 47.8,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Next Greater Element I",
+      "frequency": 53.2,
+      "acceptance": 76.4,
+      "link": "https://leetcode.com/problems/next-greater-element-i",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Reverse Words in a String",
+      "frequency": 53.2,
+      "acceptance": 56.8,
+      "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Number of Days to Make m Bouquets",
+      "frequency": 53.2,
+      "acceptance": 56.7,
+      "link": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 53.2,
+      "acceptance": 57.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Remove Boxes",
+      "frequency": 53.2,
+      "acceptance": 49.5,
+      "link": "https://leetcode.com/problems/remove-boxes",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Memoization"
+      ]
+    }
+  ]
+}

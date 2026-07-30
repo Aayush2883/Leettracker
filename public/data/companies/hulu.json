@@ -1,0 +1,127 @@
+{
+  "id": "hulu",
+  "name": "Hulu",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Binary Tree Pruning",
+      "frequency": 100,
+      "acceptance": 7236,
+      "link": "https://leetcode.com/problems/binary-tree-pruning",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Basic Calculator III",
+      "frequency": 100,
+      "acceptance": 5247,
+      "link": "https://leetcode.com/problems/basic-calculator-iii",
+      "topics": [
+        "Math",
+        "String",
+        "Stack",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Sum of Two Integers",
+      "frequency": 100,
+      "acceptance": 5368.2,
+      "link": "https://leetcode.com/problems/sum-of-two-integers",
+      "topics": [
+        "Math",
+        "Bit Manipulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Number of Valid Subarrays",
+      "frequency": 100,
+      "acceptance": 7924.1,
+      "link": "https://leetcode.com/problems/number-of-valid-subarrays",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "K-th Smallest in Lexicographical Order",
+      "frequency": 100,
+      "acceptance": 4590.5,
+      "link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+      "topics": [
+        "Trie"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Number of Valid Subarrays",
+      "frequency": 100,
+      "acceptance": 7924.1,
+      "link": "https://leetcode.com/problems/number-of-valid-subarrays",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Basic Calculator III",
+      "frequency": 100,
+      "acceptance": 5247,
+      "link": "https://leetcode.com/problems/basic-calculator-iii",
+      "topics": [
+        "Math",
+        "String",
+        "Stack",
+        "Recursion"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Binary Tree Pruning",
+      "frequency": 100,
+      "acceptance": 7236,
+      "link": "https://leetcode.com/problems/binary-tree-pruning",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Sum of Two Integers",
+      "frequency": 100,
+      "acceptance": 5368.2,
+      "link": "https://leetcode.com/problems/sum-of-two-integers",
+      "topics": [
+        "Math",
+        "Bit Manipulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "K-th Smallest in Lexicographical Order",
+      "frequency": 100,
+      "acceptance": 4590.5,
+      "link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+      "topics": [
+        "Trie"
+      ]
+    }
+  ]
+}

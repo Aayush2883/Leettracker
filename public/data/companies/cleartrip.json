@@ -1,0 +1,107 @@
+{
+  "id": "cleartrip",
+  "name": "Cleartrip",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+      "frequency": 100,
+      "acceptance": 7070.1,
+      "link": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Graph",
+        "Heap (Priority Queue)",
+        "Matrix",
+        "Shortest Path"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Word Break",
+      "frequency": 100,
+      "acceptance": 4827.4,
+      "link": "https://leetcode.com/problems/word-break",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Trie",
+        "Memoization"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "House Robber",
+      "frequency": 100,
+      "acceptance": 5230.5,
+      "link": "https://leetcode.com/problems/house-robber",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Word Break",
+      "frequency": 100,
+      "acceptance": 4827.4,
+      "link": "https://leetcode.com/problems/word-break",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Dynamic Programming",
+        "Trie",
+        "Memoization"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "House Robber",
+      "frequency": 100,
+      "acceptance": 5230.5,
+      "link": "https://leetcode.com/problems/house-robber",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+      "frequency": 100,
+      "acceptance": 7070.1,
+      "link": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+      "topics": [
+        "Array",
+        "Breadth-First Search",
+        "Graph",
+        "Heap (Priority Queue)",
+        "Matrix",
+        "Shortest Path"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Rabbits in Forest",
+      "frequency": 100,
+      "acceptance": 5826.6,
+      "link": "https://leetcode.com/problems/rabbits-in-forest",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Greedy"
+      ]
+    }
+  ]
+}

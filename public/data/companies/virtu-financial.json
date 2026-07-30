@@ -1,0 +1,147 @@
+{
+  "id": "virtu-financial",
+  "name": "Virtu Financial",
+  "thirtyDays": [],
+  "threeMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Array Transformation",
+      "frequency": 100,
+      "acceptance": 53.8,
+      "link": "https://leetcode.com/problems/array-transformation",
+      "topics": [
+        "Array",
+        "Simulation"
+      ]
+    }
+  ],
+  "sixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Array Transformation",
+      "frequency": 100,
+      "acceptance": 53.8,
+      "link": "https://leetcode.com/problems/array-transformation",
+      "topics": [
+        "Array",
+        "Simulation"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Array Transformation",
+      "frequency": 100,
+      "acceptance": 53.8,
+      "link": "https://leetcode.com/problems/array-transformation",
+      "topics": [
+        "Array",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "How Many Apples Can You Put into the Basket",
+      "frequency": 100,
+      "acceptance": 67.1,
+      "link": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Count Substrings with Only One Distinct Letter",
+      "frequency": 91.2,
+      "acceptance": 81,
+      "link": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter",
+      "topics": [
+        "Math",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Hexspeak",
+      "frequency": 91.2,
+      "acceptance": 58.4,
+      "link": "https://leetcode.com/problems/hexspeak",
+      "topics": [
+        "Math",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count Number of Homogenous Substrings",
+      "frequency": 87.3,
+      "acceptance": 57.4,
+      "link": "https://leetcode.com/problems/count-number-of-homogenous-substrings",
+      "topics": [
+        "Math",
+        "String"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Array Transformation",
+      "frequency": 100,
+      "acceptance": 53.8,
+      "link": "https://leetcode.com/problems/array-transformation",
+      "topics": [
+        "Array",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "How Many Apples Can You Put into the Basket",
+      "frequency": 97.8,
+      "acceptance": 67.1,
+      "link": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Count Substrings with Only One Distinct Letter",
+      "frequency": 93.9,
+      "acceptance": 81,
+      "link": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter",
+      "topics": [
+        "Math",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Hexspeak",
+      "frequency": 93.9,
+      "acceptance": 58.4,
+      "link": "https://leetcode.com/problems/hexspeak",
+      "topics": [
+        "Math",
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count Number of Homogenous Substrings",
+      "frequency": 92.4,
+      "acceptance": 57.4,
+      "link": "https://leetcode.com/problems/count-number-of-homogenous-substrings",
+      "topics": [
+        "Math",
+        "String"
+      ]
+    }
+  ]
+}

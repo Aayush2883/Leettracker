@@ -1,0 +1,32 @@
+{
+  "id": "peak6",
+  "name": "peak6",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Profit of Operating a Centennial Wheel",
+      "frequency": 100,
+      "acceptance": 44.6,
+      "link": "https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel",
+      "topics": [
+        "Array",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Coordinate With Maximum Network Quality",
+      "frequency": 100,
+      "acceptance": 39.7,
+      "link": "https://leetcode.com/problems/coordinate-with-maximum-network-quality",
+      "topics": [
+        "Array",
+        "Enumeration"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "id": "jane-street",
+  "name": "Jane Street",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Count Common Words With One Occurrence",
+      "frequency": 100,
+      "acceptance": 7239.1,
+      "link": "https://leetcode.com/problems/count-common-words-with-one-occurrence",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Add Two Integers",
+      "frequency": 89.9,
+      "acceptance": 8812.2,
+      "link": "https://leetcode.com/problems/add-two-integers",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Stream of Characters",
+      "frequency": 82.7,
+      "acceptance": 5122.9,
+      "link": "https://leetcode.com/problems/stream-of-characters",
+      "topics": [
+        "Array",
+        "String",
+        "Design",
+        "Trie",
+        "Data Stream"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Walking Robot Simulation",
+      "frequency": 82.7,
+      "acceptance": 5823,
+      "link": "https://leetcode.com/problems/walking-robot-simulation",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Evaluate Division",
+      "frequency": 72.6,
+      "acceptance": 6314.7,
+      "link": "https://leetcode.com/problems/evaluate-division",
+      "topics": [
+        "Array",
+        "String",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Graph",
+        "Shortest Path"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Time to Make Array Sum At Most x",
+      "frequency": 72.6,
+      "acceptance": 2533,
+      "link": "https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Design a Text Editor",
+      "frequency": 72.6,
+      "acceptance": 4713.8,
+      "link": "https://leetcode.com/problems/design-a-text-editor",
+      "topics": [
+        "Linked List",
+        "String",
+        "Stack",
+        "Design",
+        "Simulation",
+        "Doubly-Linked List"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Add Strings",
+      "frequency": 72.6,
+      "acceptance": 5190.4,
+      "link": "https://leetcode.com/problems/add-strings",
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Count Common Words With One Occurrence",
+      "frequency": 100,
+      "acceptance": 7239.1,
+      "link": "https://leetcode.com/problems/count-common-words-with-one-occurrence",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Walking Robot Simulation",
+      "frequency": 93.4,
+      "acceptance": 5823,
+      "link": "https://leetcode.com/problems/walking-robot-simulation",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Time to Make Array Sum At Most x",
+      "frequency": 91.3,
+      "acceptance": 2533,
+      "link": "https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Add Two Integers",
+      "frequency": 76.5,
+      "acceptance": 8812.2,
+      "link": "https://leetcode.com/problems/add-two-integers",
+      "topics": [
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Stream of Characters",
+      "frequency": 65.5,
+      "acceptance": 5122.9,
+      "link": "https://leetcode.com/problems/stream-of-characters",
+      "topics": [
+        "Array",
+        "String",
+        "Design",
+        "Trie",
+        "Data Stream"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Add Strings",
+      "frequency": 65.5,
+      "acceptance": 5190.4,
+      "link": "https://leetcode.com/problems/add-strings",
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Design a Text Editor",
+      "frequency": 65.5,
+      "acceptance": 4713.8,
+      "link": "https://leetcode.com/problems/design-a-text-editor",
+      "topics": [
+        "Linked List",
+        "String",
+        "Stack",
+        "Design",
+        "Simulation",
+        "Doubly-Linked List"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Longest Common Prefix",
+      "frequency": 56.9,
+      "acceptance": 4548.3,
+      "link": "https://leetcode.com/problems/longest-common-prefix",
+      "topics": [
+        "String",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Evaluate Division",
+      "frequency": 56.9,
+      "acceptance": 6314.7,
+      "link": "https://leetcode.com/problems/evaluate-division",
+      "topics": [
+        "Array",
+        "String",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union Find",
+        "Graph",
+        "Shortest Path"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Trapping Rain Water",
+      "frequency": 56.9,
+      "acceptance": 6510.2,
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Number of Orders in the Backlog",
+      "frequency": 56.9,
+      "acceptance": 5196.3,
+      "link": "https://leetcode.com/problems/number-of-orders-in-the-backlog",
+      "topics": [
+        "Array",
+        "Heap (Priority Queue)",
+        "Simulation"
+      ]
+    }
+  ]
+}

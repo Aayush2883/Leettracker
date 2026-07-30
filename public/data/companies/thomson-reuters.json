@@ -1,0 +1,55 @@
+{
+  "id": "thomson-reuters",
+  "name": "Thomson Reuters",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Minimum Time to Type Word Using Special Typewriter",
+      "frequency": 100,
+      "acceptance": 78.8,
+      "link": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter",
+      "topics": [
+        "String",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Substring Of All Vowels in Order",
+      "frequency": 100,
+      "acceptance": 52,
+      "link": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order",
+      "topics": [
+        "String",
+        "Sliding Window"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Minimum Time to Type Word Using Special Typewriter",
+      "frequency": 100,
+      "acceptance": 78.8,
+      "link": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter",
+      "topics": [
+        "String",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Substring Of All Vowels in Order",
+      "frequency": 100,
+      "acceptance": 52,
+      "link": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order",
+      "topics": [
+        "String",
+        "Sliding Window"
+      ]
+    }
+  ]
+}

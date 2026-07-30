@@ -1,0 +1,179 @@
+{
+  "id": "trilogy",
+  "name": "Trilogy",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Time to Kill All Monsters",
+      "frequency": 100,
+      "acceptance": 57.7,
+      "link": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Substring XOR Queries",
+      "frequency": 100,
+      "acceptance": 35.7,
+      "link": "https://leetcode.com/problems/substring-xor-queries",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Bit Manipulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Bitwise XOR of All Pairings",
+      "frequency": 100,
+      "acceptance": 66.9,
+      "link": "https://leetcode.com/problems/bitwise-xor-of-all-pairings",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Brainteaser"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Handling Sum Queries After Update",
+      "frequency": 100,
+      "acceptance": 31.3,
+      "link": "https://leetcode.com/problems/handling-sum-queries-after-update",
+      "topics": [
+        "Array",
+        "Segment Tree"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Distinct Subsequences",
+      "frequency": 100,
+      "acceptance": 52.1,
+      "link": "https://leetcode.com/problems/distinct-subsequences",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Fraction Addition and Subtraction",
+      "frequency": 100,
+      "acceptance": 66.5,
+      "link": "https://leetcode.com/problems/fraction-addition-and-subtraction",
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Range Product Queries of Powers",
+      "frequency": 100,
+      "acceptance": 61.2,
+      "link": "https://leetcode.com/problems/range-product-queries-of-powers",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Prefix Sum"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Substring XOR Queries",
+      "frequency": 100,
+      "acceptance": 35.7,
+      "link": "https://leetcode.com/problems/substring-xor-queries",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Bit Manipulation"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Handling Sum Queries After Update",
+      "frequency": 100,
+      "acceptance": 31.3,
+      "link": "https://leetcode.com/problems/handling-sum-queries-after-update",
+      "topics": [
+        "Array",
+        "Segment Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Bitwise XOR of All Pairings",
+      "frequency": 100,
+      "acceptance": 66.9,
+      "link": "https://leetcode.com/problems/bitwise-xor-of-all-pairings",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Brainteaser"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Time to Kill All Monsters",
+      "frequency": 100,
+      "acceptance": 57.7,
+      "link": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Distinct Subsequences",
+      "frequency": 64,
+      "acceptance": 52.1,
+      "link": "https://leetcode.com/problems/distinct-subsequences",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Fraction Addition and Subtraction",
+      "frequency": 64,
+      "acceptance": 66.5,
+      "link": "https://leetcode.com/problems/fraction-addition-and-subtraction",
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Range Product Queries of Powers",
+      "frequency": 64,
+      "acceptance": 61.2,
+      "link": "https://leetcode.com/problems/range-product-queries-of-powers",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Prefix Sum"
+      ]
+    }
+  ]
+}

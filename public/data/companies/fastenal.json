@@ -1,0 +1,37 @@
+{
+  "id": "fastenal",
+  "name": "Fastenal",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Number of Atoms",
+      "frequency": 100,
+      "acceptance": 65.1,
+      "link": "https://leetcode.com/problems/number-of-atoms",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Stack",
+        "Sorting"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Number of Atoms",
+      "frequency": 100,
+      "acceptance": 65.1,
+      "link": "https://leetcode.com/problems/number-of-atoms",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Stack",
+        "Sorting"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "teradata",
+  "name": "Teradata",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Remove Boxes",
+      "frequency": 100,
+      "acceptance": 49.5,
+      "link": "https://leetcode.com/problems/remove-boxes",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Memoization"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count Pairs in Two Arrays",
+      "frequency": 67.9,
+      "acceptance": 60.3,
+      "link": "https://leetcode.com/problems/count-pairs-in-two-arrays",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Remove Boxes",
+      "frequency": 100,
+      "acceptance": 49.5,
+      "link": "https://leetcode.com/problems/remove-boxes",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Memoization"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Operations to Make Binary Palindrome",
+      "frequency": 95.3,
+      "acceptance": 52.1,
+      "link": "https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Bit Manipulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count Pairs in Two Arrays",
+      "frequency": 66,
+      "acceptance": 60.3,
+      "link": "https://leetcode.com/problems/count-pairs-in-two-arrays",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search",
+        "Sorting"
+      ]
+    }
+  ]
+}

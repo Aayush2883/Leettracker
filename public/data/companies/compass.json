@@ -1,0 +1,166 @@
+{
+  "id": "compass",
+  "name": "Compass",
+  "thirtyDays": [],
+  "threeMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Decode String",
+      "frequency": 100,
+      "acceptance": 6115.3,
+      "link": "https://leetcode.com/problems/decode-string",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ]
+    }
+  ],
+  "sixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Decode String",
+      "frequency": 100,
+      "acceptance": 6115.3,
+      "link": "https://leetcode.com/problems/decode-string",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Total Distance Traveled",
+      "frequency": 100,
+      "acceptance": 4016.8,
+      "link": "https://leetcode.com/problems/total-distance-traveled",
+      "topics": [
+        "Math",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Group Anagrams",
+      "frequency": 89.8,
+      "acceptance": 7092.9,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Camelcase Matching",
+      "frequency": 89.8,
+      "acceptance": 6378,
+      "link": "https://leetcode.com/problems/camelcase-matching",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "String",
+        "Trie",
+        "String Matching"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Subtree of Another Tree",
+      "frequency": 89.8,
+      "acceptance": 4998.5,
+      "link": "https://leetcode.com/problems/subtree-of-another-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "String Matching",
+        "Binary Tree",
+        "Hash Function"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Total Distance Traveled",
+      "frequency": 100,
+      "acceptance": 4016.8,
+      "link": "https://leetcode.com/problems/total-distance-traveled",
+      "topics": [
+        "Math",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Camelcase Matching",
+      "frequency": 89.4,
+      "acceptance": 6378,
+      "link": "https://leetcode.com/problems/camelcase-matching",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "String",
+        "Trie",
+        "String Matching"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Group Anagrams",
+      "frequency": 89.4,
+      "acceptance": 7092.9,
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Subtree of Another Tree",
+      "frequency": 89.4,
+      "acceptance": 4998.5,
+      "link": "https://leetcode.com/problems/subtree-of-another-tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "String Matching",
+        "Binary Tree",
+        "Hash Function"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Time Based Key-Value Store",
+      "frequency": 89.4,
+      "acceptance": 4936.6,
+      "link": "https://leetcode.com/problems/time-based-key-value-store",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Binary Search",
+        "Design"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Decode String",
+      "frequency": 89.4,
+      "acceptance": 6115.3,
+      "link": "https://leetcode.com/problems/decode-string",
+      "topics": [
+        "String",
+        "Stack",
+        "Recursion"
+      ]
+    }
+  ]
+}

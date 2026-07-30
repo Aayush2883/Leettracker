@@ -1,0 +1,59 @@
+{
+  "id": "toptal",
+  "name": "Toptal",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "String Compression II",
+      "frequency": 100,
+      "acceptance": 52.2,
+      "link": "https://leetcode.com/problems/string-compression-ii",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Airplane Seat Assignment Probability",
+      "frequency": 100,
+      "acceptance": 67.5,
+      "link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Brainteaser",
+        "Probability and Statistics"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "String Compression II",
+      "frequency": 100,
+      "acceptance": 52.2,
+      "link": "https://leetcode.com/problems/string-compression-ii",
+      "topics": [
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Airplane Seat Assignment Probability",
+      "frequency": 68.7,
+      "acceptance": 67.5,
+      "link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Brainteaser",
+        "Probability and Statistics"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "wish",
+  "name": "Wish",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Monthly Transactions II",
+      "frequency": 100,
+      "acceptance": 42,
+      "link": "https://leetcode.com/problems/monthly-transactions-ii",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Monthly Transactions I",
+      "frequency": 100,
+      "acceptance": 59.3,
+      "link": "https://leetcode.com/problems/monthly-transactions-i",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Rabbits in Forest",
+      "frequency": 100,
+      "acceptance": 58.1,
+      "link": "https://leetcode.com/problems/rabbits-in-forest",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Find Servers That Handled Most Number of Requests",
+      "frequency": 100,
+      "acceptance": 45.5,
+      "link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+      "topics": [
+        "Array",
+        "Heap (Priority Queue)",
+        "Simulation",
+        "Ordered Set"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Search in Rotated Sorted Array",
+      "frequency": 100,
+      "acceptance": 45.1,
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Find Servers That Handled Most Number of Requests",
+      "frequency": 100,
+      "acceptance": 45.5,
+      "link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+      "topics": [
+        "Array",
+        "Heap (Priority Queue)",
+        "Simulation",
+        "Ordered Set"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Rabbits in Forest",
+      "frequency": 100,
+      "acceptance": 58.1,
+      "link": "https://leetcode.com/problems/rabbits-in-forest",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Monthly Transactions I",
+      "frequency": 100,
+      "acceptance": 59.3,
+      "link": "https://leetcode.com/problems/monthly-transactions-i",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Monthly Transactions II",
+      "frequency": 100,
+      "acceptance": 42,
+      "link": "https://leetcode.com/problems/monthly-transactions-ii",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Search in Rotated Sorted Array",
+      "frequency": 65.7,
+      "acceptance": 45.1,
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ]
+    }
+  ]
+}

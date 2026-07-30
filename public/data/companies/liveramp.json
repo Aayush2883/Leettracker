@@ -1,0 +1,167 @@
+{
+  "id": "liveramp",
+  "name": "LiveRamp",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Palindromic Substring",
+      "frequency": 100,
+      "acceptance": 3584.6,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Largest Time for Given Digits",
+      "frequency": 100,
+      "acceptance": 3552.9,
+      "link": "https://leetcode.com/problems/largest-time-for-given-digits",
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Enumeration"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Longest Harmonious Subsequence",
+      "frequency": 100,
+      "acceptance": 5731.3,
+      "link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window",
+        "Sorting",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Shortest Unsorted Continuous Subarray",
+      "frequency": 100,
+      "acceptance": 3743.7,
+      "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Stack",
+        "Greedy",
+        "Sorting",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Distribute Candies",
+      "frequency": 100,
+      "acceptance": 6959.9,
+      "link": "https://leetcode.com/problems/distribute-candies",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Course Schedule",
+      "frequency": 100,
+      "acceptance": 4923.5,
+      "link": "https://leetcode.com/problems/course-schedule",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph",
+        "Topological Sort"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Distribute Candies",
+      "frequency": 100,
+      "acceptance": 6959.9,
+      "link": "https://leetcode.com/problems/distribute-candies",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Shortest Unsorted Continuous Subarray",
+      "frequency": 100,
+      "acceptance": 3743.7,
+      "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Stack",
+        "Greedy",
+        "Sorting",
+        "Monotonic Stack"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Longest Harmonious Subsequence",
+      "frequency": 100,
+      "acceptance": 5731.3,
+      "link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window",
+        "Sorting",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Largest Time for Given Digits",
+      "frequency": 100,
+      "acceptance": 3552.9,
+      "link": "https://leetcode.com/problems/largest-time-for-given-digits",
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Enumeration"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Palindromic Substring",
+      "frequency": 65.1,
+      "acceptance": 3584.6,
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Course Schedule",
+      "frequency": 65.1,
+      "acceptance": 4923.5,
+      "link": "https://leetcode.com/problems/course-schedule",
+      "topics": [
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph",
+        "Topological Sort"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "duolingo",
+  "name": "Duolingo",
+  "thirtyDays": [],
+  "threeMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Encrypt and Decrypt Strings",
+      "frequency": 100,
+      "acceptance": 38.6,
+      "link": "https://leetcode.com/problems/encrypt-and-decrypt-strings",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ]
+    }
+  ],
+  "sixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Encrypt and Decrypt Strings",
+      "frequency": 100,
+      "acceptance": 38.6,
+      "link": "https://leetcode.com/problems/encrypt-and-decrypt-strings",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Encrypt and Decrypt Strings",
+      "frequency": 100,
+      "acceptance": 38.6,
+      "link": "https://leetcode.com/problems/encrypt-and-decrypt-strings",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Longest Increasing Path in a Matrix",
+      "frequency": 78.7,
+      "acceptance": 56.7,
+      "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort",
+        "Memoization",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Number of People to Teach",
+      "frequency": 68.8,
+      "acceptance": 67.3,
+      "link": "https://leetcode.com/problems/minimum-number-of-people-to-teach",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Task Scheduler II",
+      "frequency": 68.8,
+      "acceptance": 54.9,
+      "link": "https://leetcode.com/problems/task-scheduler-ii",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "K Radius Subarray Averages",
+      "frequency": 61,
+      "acceptance": 46.3,
+      "link": "https://leetcode.com/problems/k-radius-subarray-averages",
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "Encrypt and Decrypt Strings",
+      "frequency": 100,
+      "acceptance": 38.6,
+      "link": "https://leetcode.com/problems/encrypt-and-decrypt-strings",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Design",
+        "Trie"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Number of People to Teach",
+      "frequency": 84.7,
+      "acceptance": 67.3,
+      "link": "https://leetcode.com/problems/minimum-number-of-people-to-teach",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "K Radius Subarray Averages",
+      "frequency": 82.9,
+      "acceptance": 46.3,
+      "link": "https://leetcode.com/problems/k-radius-subarray-averages",
+      "topics": [
+        "Array",
+        "Sliding Window"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Longest Increasing Path in a Matrix",
+      "frequency": 70,
+      "acceptance": 56.7,
+      "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Graph Theory",
+        "Topological Sort",
+        "Memoization",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Task Scheduler II",
+      "frequency": 65.9,
+      "acceptance": 54.9,
+      "link": "https://leetcode.com/problems/task-scheduler-ii",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Simulation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "mindtree",
+  "name": "MindTree",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 100,
+      "acceptance": 5577.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Count Integers With Even Digit Sum",
+      "frequency": 89.6,
+      "acceptance": 6878.3,
+      "link": "https://leetcode.com/problems/count-integers-with-even-digit-sum",
+      "topics": [
+        "Math",
+        "Simulation"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Count Integers With Even Digit Sum",
+      "frequency": 100,
+      "acceptance": 6878.3,
+      "link": "https://leetcode.com/problems/count-integers-with-even-digit-sum",
+      "topics": [
+        "Math",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Two Sum",
+      "frequency": 75.2,
+      "acceptance": 5577.7,
+      "link": "https://leetcode.com/problems/two-sum",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Average Time of Process per Machine",
+      "frequency": 66.8,
+      "acceptance": 6862.9,
+      "link": "https://leetcode.com/problems/average-time-of-process-per-machine",
+      "topics": [
+        "Database"
+      ]
+    }
+  ]
+}

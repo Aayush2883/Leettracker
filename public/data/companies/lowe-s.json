@@ -1,0 +1,105 @@
+{
+  "id": "lowe-s",
+  "name": "Lowe's",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Find the Original Typed String I",
+      "frequency": 100,
+      "acceptance": 5678,
+      "link": "https://leetcode.com/problems/find-the-original-typed-string-i",
+      "topics": [
+        "String"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Minimum Operations to Make Array Values Equal to K",
+      "frequency": 100,
+      "acceptance": 7347.1,
+      "link": "https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "The Number of Good Subsets",
+      "frequency": 66.3,
+      "acceptance": 3594.3,
+      "link": "https://leetcode.com/problems/the-number-of-good-subsets",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Groups of Strings",
+      "frequency": 66.3,
+      "acceptance": 2660.3,
+      "link": "https://leetcode.com/problems/groups-of-strings",
+      "topics": [
+        "String",
+        "Bit Manipulation",
+        "Union Find"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "HARD",
+      "title": "The Number of Good Subsets",
+      "frequency": 100,
+      "acceptance": 3594.3,
+      "link": "https://leetcode.com/problems/the-number-of-good-subsets",
+      "topics": [
+        "Array",
+        "Math",
+        "Dynamic Programming",
+        "Bit Manipulation",
+        "Bitmask"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Groups of Strings",
+      "frequency": 100,
+      "acceptance": 2660.3,
+      "link": "https://leetcode.com/problems/groups-of-strings",
+      "topics": [
+        "String",
+        "Bit Manipulation",
+        "Union Find"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Find the Original Typed String I",
+      "frequency": 100,
+      "acceptance": 5678,
+      "link": "https://leetcode.com/problems/find-the-original-typed-string-i",
+      "topics": [
+        "String"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Minimum Operations to Make Array Values Equal to K",
+      "frequency": 100,
+      "acceptance": 7347.1,
+      "link": "https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    }
+  ]
+}

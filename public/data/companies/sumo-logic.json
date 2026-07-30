@@ -1,0 +1,77 @@
+{
+  "id": "sumo-logic",
+  "name": "Sumo Logic",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimize Hamming Distance After Swap Operations",
+      "frequency": 100,
+      "acceptance": 69.6,
+      "link": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Union-Find"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Satisfiability of Equality Equations",
+      "frequency": 100,
+      "acceptance": 51.9,
+      "link": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+      "topics": [
+        "Array",
+        "String",
+        "Union-Find",
+        "Graph Theory"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Satisfiability of Equality Equations",
+      "frequency": 100,
+      "acceptance": 51.9,
+      "link": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+      "topics": [
+        "Array",
+        "String",
+        "Union-Find",
+        "Graph Theory"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimize Hamming Distance After Swap Operations",
+      "frequency": 75.2,
+      "acceptance": 69.6,
+      "link": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Union-Find"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+      "frequency": 66.8,
+      "acceptance": 57.8,
+      "link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+      "topics": [
+        "Array",
+        "Queue",
+        "Sliding Window",
+        "Heap (Priority Queue)",
+        "Ordered Set",
+        "Monotonic Queue"
+      ]
+    }
+  ]
+}

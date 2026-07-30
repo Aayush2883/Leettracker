@@ -1,0 +1,166 @@
+{
+  "id": "citrix",
+  "name": "Citrix",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Pairs of Songs With Total Durations Divisible by 60",
+      "frequency": 100,
+      "acceptance": 5324.8,
+      "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Check if Strings Can be Made Equal With Operations I",
+      "frequency": 100,
+      "acceptance": 4707.8,
+      "link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i",
+      "topics": [
+        "String"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Check if Strings Can be Made Equal With Operations II",
+      "frequency": 100,
+      "acceptance": 5522.8,
+      "link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Maximum Performance of a Team",
+      "frequency": 100,
+      "acceptance": 4751.5,
+      "link": "https://leetcode.com/problems/maximum-performance-of-a-team",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find All Groups of Farmland",
+      "frequency": 100,
+      "acceptance": 7548.1,
+      "link": "https://leetcode.com/problems/find-all-groups-of-farmland",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Remove Nth Node From End of List",
+      "frequency": 100,
+      "acceptance": 4896.1,
+      "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find All Groups of Farmland",
+      "frequency": 100,
+      "acceptance": 7548.1,
+      "link": "https://leetcode.com/problems/find-all-groups-of-farmland",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Matrix"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Check if Strings Can be Made Equal With Operations II",
+      "frequency": 100,
+      "acceptance": 5522.8,
+      "link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Check if Strings Can be Made Equal With Operations I",
+      "frequency": 100,
+      "acceptance": 4707.8,
+      "link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i",
+      "topics": [
+        "String"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Maximum Performance of a Team",
+      "frequency": 100,
+      "acceptance": 4751.5,
+      "link": "https://leetcode.com/problems/maximum-performance-of-a-team",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting",
+        "Heap (Priority Queue)"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Remove Nth Node From End of List",
+      "frequency": 63.7,
+      "acceptance": 4896.1,
+      "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Pairs of Songs With Total Durations Divisible by 60",
+      "frequency": 63.7,
+      "acceptance": 5324.8,
+      "link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "LRU Cache",
+      "frequency": 63.7,
+      "acceptance": 4521.5,
+      "link": "https://leetcode.com/problems/lru-cache",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Design",
+        "Doubly-Linked List"
+      ]
+    }
+  ]
+}

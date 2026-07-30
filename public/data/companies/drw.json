@@ -1,0 +1,79 @@
+{
+  "id": "drw",
+  "name": "DRW",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximize Score After Pair Deletions",
+      "frequency": 100,
+      "acceptance": 52.5,
+      "link": "https://leetcode.com/problems/maximize-score-after-pair-deletions",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Subsequence of Size K With the Largest Even Sum",
+      "frequency": 67.3,
+      "acceptance": 35.6,
+      "link": "https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Counting Elements",
+      "frequency": 67.3,
+      "acceptance": 60.8,
+      "link": "https://leetcode.com/problems/counting-elements",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Subsequence of Size K With the Largest Even Sum",
+      "frequency": 100,
+      "acceptance": 35.6,
+      "link": "https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Counting Elements",
+      "frequency": 100,
+      "acceptance": 60.8,
+      "link": "https://leetcode.com/problems/counting-elements",
+      "topics": [
+        "Array",
+        "Hash Table"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximize Score After Pair Deletions",
+      "frequency": 100,
+      "acceptance": 52.5,
+      "link": "https://leetcode.com/problems/maximize-score-after-pair-deletions",
+      "topics": [
+        "Array",
+        "Greedy"
+      ]
+    }
+  ]
+}

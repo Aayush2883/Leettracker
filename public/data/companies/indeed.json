@@ -1,0 +1,181 @@
+{
+  "id": "indeed",
+  "name": "Indeed",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "HARD",
+      "title": "Merge k Sorted Lists",
+      "frequency": 100,
+      "acceptance": 5677.4,
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Sum of Even Numbers After Queries",
+      "frequency": 89.1,
+      "acceptance": 6852.8,
+      "link": "https://leetcode.com/problems/sum-of-even-numbers-after-queries",
+      "topics": [
+        "Array",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Moves to Equal Array Elements",
+      "frequency": 89.1,
+      "acceptance": 5770.5,
+      "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+      "topics": [
+        "Array",
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Cost to Split an Array",
+      "frequency": 89.1,
+      "acceptance": 4233.5,
+      "link": "https://leetcode.com/problems/minimum-cost-to-split-an-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Dynamic Programming",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find Players With Zero or One Losses",
+      "frequency": 89.1,
+      "acceptance": 7259.7,
+      "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Binary Tree Tilt",
+      "frequency": 89.1,
+      "acceptance": 6409.7,
+      "link": "https://leetcode.com/problems/binary-tree-tilt",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Check if Every Row and Column Contains All Numbers",
+      "frequency": 89.1,
+      "acceptance": 5284.1,
+      "link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Sum of Even Numbers After Queries",
+      "frequency": 100,
+      "acceptance": 6852.8,
+      "link": "https://leetcode.com/problems/sum-of-even-numbers-after-queries",
+      "topics": [
+        "Array",
+        "Simulation"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Binary Tree Tilt",
+      "frequency": 100,
+      "acceptance": 6409.7,
+      "link": "https://leetcode.com/problems/binary-tree-tilt",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Minimum Cost to Split an Array",
+      "frequency": 100,
+      "acceptance": 4233.5,
+      "link": "https://leetcode.com/problems/minimum-cost-to-split-an-array",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Dynamic Programming",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Find Players With Zero or One Losses",
+      "frequency": 100,
+      "acceptance": 7259.7,
+      "link": "https://leetcode.com/problems/find-players-with-zero-or-one-losses",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Moves to Equal Array Elements",
+      "frequency": 100,
+      "acceptance": 5770.5,
+      "link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+      "topics": [
+        "Array",
+        "Math"
+      ]
+    },
+    {
+      "difficulty": "HARD",
+      "title": "Merge k Sorted Lists",
+      "frequency": 79.3,
+      "acceptance": 5677.4,
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "topics": [
+        "Linked List",
+        "Divide and Conquer",
+        "Heap (Priority Queue)",
+        "Merge Sort"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Check if Every Row and Column Contains All Numbers",
+      "frequency": 72.8,
+      "acceptance": 5284.1,
+      "link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ]
+    }
+  ]
+}

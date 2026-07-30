@@ -1,0 +1,31 @@
+{
+  "id": "veeva-systems",
+  "name": "Veeva Systems",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count and Say",
+      "frequency": 100,
+      "acceptance": 63.1,
+      "link": "https://leetcode.com/problems/count-and-say",
+      "topics": [
+        "String"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Count and Say",
+      "frequency": 100,
+      "acceptance": 63.1,
+      "link": "https://leetcode.com/problems/count-and-say",
+      "topics": [
+        "String"
+      ]
+    }
+  ]
+}

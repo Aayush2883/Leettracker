@@ -1,0 +1,131 @@
+{
+  "id": "groww",
+  "name": "Groww",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Best Time to Buy and Sell Stock",
+      "frequency": 100,
+      "acceptance": 57,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Good Subarray Sum",
+      "frequency": 92.6,
+      "acceptance": 22,
+      "link": "https://leetcode.com/problems/maximum-good-subarray-sum",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Number of Operations to Make X and Y Equal",
+      "frequency": 82.2,
+      "acceptance": 48.8,
+      "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal",
+      "topics": [
+        "Dynamic Programming",
+        "Breadth-First Search",
+        "Memoization"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Container With Most Water",
+      "frequency": 82.2,
+      "acceptance": 60.2,
+      "link": "https://leetcode.com/problems/container-with-most-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Length of a Concatenated String with Unique Characters",
+      "frequency": 82.2,
+      "acceptance": 54.8,
+      "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters",
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Bit Manipulation"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Minimum Number of Operations to Make X and Y Equal",
+      "frequency": 100,
+      "acceptance": 48.8,
+      "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-x-and-y-equal",
+      "topics": [
+        "Dynamic Programming",
+        "Breadth-First Search",
+        "Memoization"
+      ]
+    },
+    {
+      "difficulty": "EASY",
+      "title": "Best Time to Buy and Sell Stock",
+      "frequency": 80.2,
+      "acceptance": 57,
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Good Subarray Sum",
+      "frequency": 74,
+      "acceptance": 22,
+      "link": "https://leetcode.com/problems/maximum-good-subarray-sum",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Prefix Sum"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Container With Most Water",
+      "frequency": 65.2,
+      "acceptance": 60.2,
+      "link": "https://leetcode.com/problems/container-with-most-water",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Maximum Length of a Concatenated String with Unique Characters",
+      "frequency": 65.2,
+      "acceptance": 54.8,
+      "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters",
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Bit Manipulation"
+      ]
+    }
+  ]
+}

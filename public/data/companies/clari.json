@@ -1,0 +1,85 @@
+{
+  "id": "clari",
+  "name": "Clari",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Unique Binary Search Trees",
+      "frequency": 100,
+      "acceptance": 6244.5,
+      "link": "https://leetcode.com/problems/unique-binary-search-trees",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Tree",
+        "Binary Search Tree",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Create Binary Tree From Descriptions",
+      "frequency": 90.1,
+      "acceptance": 8164,
+      "link": "https://leetcode.com/problems/create-binary-tree-from-descriptions",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Tree",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Group Employees of the Same Salary",
+      "frequency": 90.1,
+      "acceptance": 6631.8,
+      "link": "https://leetcode.com/problems/group-employees-of-the-same-salary",
+      "topics": [
+        "Database"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Create Binary Tree From Descriptions",
+      "frequency": 100,
+      "acceptance": 8164,
+      "link": "https://leetcode.com/problems/create-binary-tree-from-descriptions",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Tree",
+        "Binary Tree"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Group Employees of the Same Salary",
+      "frequency": 100,
+      "acceptance": 6631.8,
+      "link": "https://leetcode.com/problems/group-employees-of-the-same-salary",
+      "topics": [
+        "Database"
+      ]
+    },
+    {
+      "difficulty": "MEDIUM",
+      "title": "Unique Binary Search Trees",
+      "frequency": 81.1,
+      "acceptance": 6244.5,
+      "link": "https://leetcode.com/problems/unique-binary-search-trees",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Tree",
+        "Binary Search Tree",
+        "Binary Tree"
+      ]
+    }
+  ]
+}

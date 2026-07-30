@@ -1,0 +1,37 @@
+{
+  "id": "braze",
+  "name": "Braze",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Candy Crush",
+      "frequency": 100,
+      "acceptance": 77.6,
+      "link": "https://leetcode.com/problems/candy-crush",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Matrix",
+        "Simulation"
+      ]
+    }
+  ],
+  "moreThanSixMonths": [],
+  "all": [
+    {
+      "difficulty": "MEDIUM",
+      "title": "Candy Crush",
+      "frequency": 100,
+      "acceptance": 77.6,
+      "link": "https://leetcode.com/problems/candy-crush",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Matrix",
+        "Simulation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "druva",
+  "name": "Druva",
+  "thirtyDays": [],
+  "threeMonths": [],
+  "sixMonths": [],
+  "moreThanSixMonths": [
+    {
+      "difficulty": "EASY",
+      "title": "Maximize Sum Of Array After K Negations",
+      "frequency": 100,
+      "acceptance": 54,
+      "link": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "difficulty": "EASY",
+      "title": "Maximize Sum Of Array After K Negations",
+      "frequency": 100,
+      "acceptance": 54,
+      "link": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations",
+      "topics": [
+        "Array",
+        "Greedy",
+        "Sorting"
+      ]
+    }
+  ]
+}
